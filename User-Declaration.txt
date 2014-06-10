@@ -1,0 +1,59 @@
+USER AGREEMENT / DECLARATION (version 050215)
+
+Center for Computer Analysis of Texts (CCAT)
+Religious Studies, University of Pennsylvania
+227 Logan Hall
+Philadelphia PA 19104-6304
+
+Tel 215 898 5827 (Fax 215 898 6568)
+Email kraft at ccat.sas.upenn.edu
+Home pages http://ccat.sas.upenn.edu/rs/rak/catss.html
+           http://ccat.sas.upenn.edu/gopher/text/
+
+With regard to the texts and software it distributes, CCAT has made all 
+reasonable efforts to insure that appropriate consent and permission has been 
+obtained from copyright holders of published materials converted into 
+machine-readable form as well as from producers of the electronic form, and thus 
+that fair and permitted use of such materials does not constitute an 
+infringement on copyright. Pertinent information is included in such 
+documentation as may be supplied with the electronic materials (e.g. "readme" 
+files).
+
+In accepting materials distributed by or through CCAT, the recipient agrees to 
+observe the following "fair use" provisions: 
+
+(1) Not to use or make available these materials for commercial purposes without 
+first obtaining the written consent of the owners/encoders; 
+
+(2) To observe any special restrictions that may govern the use of particular 
+texts or bodies of material as stipulated in the aforementioned documentation; 
+
+(3) To control access to these materials and require any other party to whom the 
+recipient supplies any portion of this material to observe these conditions and 
+to register a signed USER AGREEMENT form with CCAT; 
+
+(4) When making formal public reference to the materials, to acknowledge 
+appropriately the holder of the copyright to any published text that has been 
+encoded as well as to the encoder and the source from which the machine-readable 
+form has been obtained, to the extent that these details are supplied in the 
+aforementioned documentation. Unless otherwise noted, CCAT is the legal owner of 
+the software and documentation being distributed. 
+
+(5) To report promptly to CCAT any errors discovered in these machine-readable 
+materials or problems with the software. 
+
+
+SIGNED AND DATED____________________________________________________
+
+
+NAME (PRINTED)  ____________________________________________________
+
+
+ADDRESS         ____________________________________________________
+
+Text(s) obtained: 
+
+If materials were not obtained directly from CCAT or its web site, please 
+indicate the source(s):
+
+

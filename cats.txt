@@ -1,0 +1,59 @@
+01.Gen.txt pentateuch
+02.Exod.txt pentateuch
+03.Lev.txt pentateuch
+04.Num.txt pentateuch
+05.Deut.txt pentateuch
+06.JoshB.txt former-prophets
+07.JoshA.txt former-prophets
+08.JudgesB.txt former-prophets
+09.JudgesA.txt former-prophets
+10.Ruth.txt writings
+11.1Sam.txt former-prophets
+12.2Sam.txt former-prophets
+13.1Kings.txt former-prophets
+14.2Kings.txt former-prophets
+15.1Chron.txt writings
+16.2Chron.txt writings
+17.1Esdras.txt writings
+18.2Esdras.txt writings
+19.Esther.txt writings
+20.Judith.txt deuterocanon
+21.TobitBA.txt deuterocanon
+22.TobitS.txt deuterocanon
+23.1Macc.txt deuterocanon
+24.2Macc.txt deuterocanon
+25.3Macc.txt deuterocanon
+26.4Macc.txt deuterocanon
+27.Psalms.txt writings
+28.Odes.txt deuterocanon
+29.Proverbs.txt writings
+30.Qoheleth.txt writings
+31.Canticles.txt writings
+32.Job.txt writings
+33.Wisdom.txt deuterocanon
+34.Sirach.txt deuterocanon
+35.PsSol.txt deuterocanon
+36.Hosea.txt minor-prophets latter-prophets
+37.Micah.txt minor-prophets latter-prophets
+38.Amos.txt minor-prophets latter-prophets
+39.Joel.txt minor-prophets latter-prophets
+40.Jonah.txt minor-prophets latter-prophets
+41.Obadiah.txt minor-prophets latter-prophets
+42.Nahum.txt minor-prophets latter-prophets
+43.Habakkuk.txt minor-prophets latter-prophets
+44.Zeph.txt minor-prophets latter-prophets
+45.Haggai.txt minor-prophets latter-prophets
+46.Zech.txt minor-prophets latter-prophets
+47.Malachi.txt minor-prophets latter-prophets
+48.Isaiah.txt latter-prophets
+49.Jer.txt latter-prophets
+50.Baruch.txt deuterocanon
+51.EpJer.txt deuterocanon
+52.Lam.txt writings
+53.Ezek.txt latter-prophets
+54.BelOG.txt deuterocanon
+55.BelTh.txt deuterocanon
+56.DanielOG.txt writings
+57.DanielTh.txt writings
+58.SusOG.txt deuterocanon
+59.SusTh.txt deuterocanon

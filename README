@@ -1,0 +1,14 @@
+The LXX text in unicode with morphological tagging and categories. For
+use as an NLTK categorized tagged corpus.
+
+Text and parsing information from CATSS morphologically-tagged
+Seputagint (LXXM):
+http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/
+
+Unicode conversion: 
+lxxmorph-unicode - https://gitorious.org/lxxmorph-unicode
+
+Please note that the same terms of use apply to this unicode version
+as to the original - see the Readme-original.txt and
+User-declaration.txt files for details.
+

@@ -1,0 +1,310 @@
+ἐβόησα/VAI-AAI1S πρὸς/P κύριον/N2-ASM ἐν/P τῷ/RA-DSN θλίβεσθαί/V1-PMN με/RP-AS εἰς/P τέλος/N3E-ASN πρὸς/P τὸν/RA-ASM θεὸν/N2-ASM ἐν/P τῷ/RA-DSN ἐπιθέσθαι/VE-AMN ἁμαρτωλούς/A1B-APM 
+ ἐξάπινα/D ἠκούσθη/VCI-API3S κραυγὴ/N1-NSF πολέμου/N2-GSM ἐνώπιόν/A1B-ASM μου/RP-GS εἶπα/VAI-AAI1S ἐπακούσεταί/VF-FMI3S μου/RP-GS ὅτι/C ἐπλήσθην/VSI-API1S δικαιοσύνης/N1-GSF 
+ ἐλογισάμην/VAI-AMI1S ἐν/P καρδίᾳ/N1A-DSF μου/RP-GS ὅτι/C ἐπλήσθην/VSI-API1S δικαιοσύνης/N1-GSF ἐν/P τῷ/RA-DSN εὐθηνῆσαί/VA-AAN με/RP-AS καὶ/C πολλὴν/A1-ASF γενέσθαι/VB-AMN ἐν/P τέκνοις/N2N-DPN 
+ ὁ/RA-NSM πλοῦτος/N2-NSM αὐτῶν/RD-GPM διεδόθη/VCI-API3S εἰς/P πᾶσαν/A1S-ASF τὴν/RA-ASF γῆν/N1-ASF καὶ/C ἡ/RA-NSF δόξα/N1S-NSF αὐτῶν/RD-GPM ἕως/C ἐσχάτου/A1-GSM τῆς/RA-GSF γῆς/N1-GSF 
+ ὑψώθησαν/VCI-API3P ἕως/C τῶν/RA-GPN ἄστρων/N2N-GPN εἶπαν/VAI-AAI3P οὐ/D μὴ/D πέσωσιν/VA-AAS3P 
+ καὶ/C ἐξύβρισαν/VA-AAPASN ἐν/P τοῖς/RA-DPM ἀγαθοῖς/A1-DPM αὐτῶν/RD-GPM καὶ/C οὐκ/D ἤνεγκαν/VAI-AAI3P 
+ αἱ/RA-NPF ἁμαρτίαι/N1A-NPF αὐτῶν/RD-GPM ἐν/P ἀποκρύφοις/A1B-DPN καὶ/C ἐγὼ/RP-NS οὐκ/D ᾔδειν/V-YAI3S 
+ αἱ/RA-NPF ἀνομίαι/N1A-NPF αὐτῶν/RD-GPM ὑπὲρ/P τὰ/RA-APN πρὸ/P αὐτῶν/RD-GPM ἔθνη/N3E-APN ἐβεβήλωσαν/VAI-AAI3P τὰ/RA-APN ἅγια/A1A-APN κυρίου/N2-GSM ἐν/P βεβηλώσει/N3I-DSF 
+ ψαλμὸς/N2-NSM τῷ/RA-DSM Σαλωμων/N-DSM περὶ/P Ιερουσαλημ/N-AS 
+ ἐν/P τῷ/RA-DSN ὑπερηφανεύεσθαι/V1-PMN τὸν/RA-ASM ἁμαρτωλὸν/A1B-ASM ἐν/P κριῷ/N2-DSM κατέβαλε/VBI-AAI3S τείχη/N3E-APN ὀχυρά/A1A-APN καὶ/C οὐκ/D ἐκώλυσας/VAI-AAI2S 
+ ἀνέβησαν/VZI-AAI3P ἐπὶ/P τὸ/RA-ASN θυσιαστήριόν/N2N-ASN σου/RP-GS ἔθνη/N3E-APN ἀλλότρια/A1A-APN κατεπατοῦσαν/VAI-AAI3P ἐν/P ὑποδήμασιν/N3M-DPN αὐτῶν/RD-GPM ἐν/P ὑπερηφανίᾳ/N1A-DSF 
+ ἀνθ'/P ὧν/RR-GPM οἱ/RA-NPM υἱοὶ/N2-NPM Ιερουσαλημ/N-GS ἐμίαναν/VAI-AAI3P τὰ/RA-APN ἅγια/A1A-APN κυρίου/N2-GSM ἐβεβηλοῦσαν/VAI-AAI3P τὰ/RA-APN δῶρα/N2N-APN τοῦ/RA-GSM θεοῦ/N2-GSM ἐν/P ἀνομίαις/N1A-DPF 
+ ἕνεκεν/P τούτων/RD-GPM εἶπεν/VBI-AAI3S ἀπορρίψατε/VA-AAI2P αὐτὰ/RD-APN μακρὰν/A1A-ASF ἀπ'/P ἐμοῦ/RP-GS οὐκ/D εὐδοκῶ/V2-PAI1S ἐν/P αὐτοῖς/RD-DPM 
+ τὸ/RA-ASN κάλλος/N3E-ASN τῆς/RA-GSF δόξης/N1S-GSF αὐτῆς/RD-GSF ἐξουθενώθη/VD-API3S ἐνώπιον/A1B-ASM τοῦ/RA-GSM θεοῦ/N2-GSM ἠτιμώθη/VD-API3S ἕως/C εἰς/P τέλος/N3E-ASN 
+ οἱ/RA-NPM υἱοὶ/N2-NPM καὶ/C αἱ/RA-NPF θυγατέρες/N3-NPF ἐν/P αἰχμαλωσίᾳ/N1A-DSF πονηρᾷ/A1A-DSF ἐν/P σφραγῖδι/N3D-DSF ὁ/RA-NSM τράχηλος/N2-NSM αὐτῶν/RD-GPM ἐν/P ἐπισήμῳ/A1B-DSM ἐν/P τοῖς/RA-DPN ἔθνεσιν/N3E-DPN 
+ κατὰ/P τὰς/RA-APF ἁμαρτίας/N1A-GSF αὐτῶν/RD-GPM ἐποίησεν/VAI-AAI3S αὐτοῖς/RD-DPM ὅτι/C ἐγκατέλιπεν/VBI-AAI3S αὐτοὺς/RD-APM εἰς/P χεῖρας/N3-APF κατισχυόντων/V1-PAPGPM 
+ ἀπέστρεψεν/VAI-AAI3S γὰρ/X τὸ/RA-ASN πρόσωπον/N2N-ASN αὐτοῦ/RD-GSM ἀπὸ/P ἐλέους/N3E-GSN αὐτῶν/RD-GPM νέον/A1A-ASM καὶ/C πρεσβύτην/N1M-ASM καὶ/C τέκνα/N2N-APN αὐτῶν/RD-GPM εἰς/P ἅπαξ/D ὅτι/C πονηρὰ/A1A-APN ἐποίησαν/VAI-AAI3P εἰς/P ἅπαξ/D τοῦ/RA-GSM μὴ/D ἀκούειν/V1-PAN 
+ καὶ/C ὁ/RA-NSM οὐρανὸς/N2-NSM ἐβαρυθύμησεν/VAI-AAI3S καὶ/C ἡ/RA-NSF γῆ/N1-NSF ἐβδελύξατο/VAI-AMI3S αὐτούς/RD-APM ὅτι/C οὐκ/D ἐποίησε/VAI-AAI3S πᾶς/A3-NSM ἄνθρωπος/N2-NSM ἐπ'/P αὐτῆς/RD-GSF ὅσα/A1-APN ἐποίησαν/VAI-AAI3P 
+ καὶ/C γνώσεται/VF-FMI3S ἡ/RA-NSF γῆ/N1-NSF τὰ/RA-APN κρίματά/N3M-APN σου/RP-GS πάντα/A3-ASM τὰ/RA-APN δίκαια/A1A-APN ὁ/RA-NSM θεός/N2-NSM 
+ ἔστησαν/VHI-AAI3P τοὺς/RA-APM υἱοὺς/N2-APM Ιερουσαλημ/N-GS εἰς/P ἐμπαιγμὸν/N2-ASM ἀντὶ/P πορνῶν/N1-GPF ἐν/P αὐτῇ/RD-DSF πᾶς/A3-NSM ὁ/RA-NSM παραπορευόμενος/V1-PMPNSM εἰσεπορεύετο/V1I-IMI3S κατέναντι/D τοῦ/RA-GSM ἡλίου/N2-GSM 
+ ἐνέπαιζον/V1I-IAI3P ταῖς/RA-DPF ἀνομίαις/N1A-DPF αὐτῶν/RD-GPM καθὰ/RR-APN ἐποίουν/V2I-IAI3P αὐτοί/RD-NPM ἀπέναντι/D τοῦ/RA-GSM ἡλίου/N2-GSM παρεδειγμάτισαν/VTI-AAI3P ἀδικίας/N1A-GSF αὐτῶν/RD-GPM 
+ καὶ/C θυγατέρες/N3-NPF Ιερουσαλημ/N-NS βέβηλοι/V4-PAI3S κατὰ/P τὸ/RA-ASN κρίμα/N3M-ASN σου/RP-GS ἀνθ'/P ὧν/RR-GPM αὐταὶ/RD-NPF ἐμιαίωσαν/VAI-AAI3P αὑτὰς/RD-APF ἐν/P φυρμῷ/N2-DSM ἀναμείξεως/N3I-GSM 
+ τὴν/RA-ASF κοιλίαν/N1A-ASF μου/RP-GS καὶ/C τὰ/RA-APN σπλάγχνα/N2N-APN μου/RP-GS πονῶ/V2-PAI1S ἐπὶ/P τούτοις/RD-DPM 
+ ἐγὼ/RP-NSM δικαιώσω/VF-FAI1S σε/RP-AS ὁ/RA-NSM θεός/N2-NSM ἐν/P εὐθύτητι/N3T-DSF καρδίας/N1A-GSF ὅτι/C ἐν/P τοῖς/RA-DPN κρίμασίν/N3M-DPN σου/RP-GS ἡ/RA-NSF δικαιοσύνη/N1-NSF σου/RP-GS ὁ/RA-NSM θεός/N2-NSM 
+ ὅτι/C ἀπέδωκας/VAI-AAI2S τοῖς/RA-DPM ἁμαρτωλοῖς/A1B-DPM κατὰ/P τὰ/RA-APN ἔργα/N2N-APN αὐτῶν/RD-GPM καὶ/C κατὰ/P τὰς/RA-APF ἁμαρτίας/N1A-GSF αὐτῶν/RD-GPM τὰς/RA-APF πονηρὰς/A1A-APF σφόδρα/D 
+ ἀνεκάλυψας/VAI-AAI2S τὰς/RA-APF ἁμαρτίας/N1A-GSF αὐτῶν/RD-GPM ἵνα/C φανῇ/VD-APS3S τὸ/RA-ASN κρίμα/N3M-ASN σου/RP-GS ἐξήλειψας/VAI-AAI2S τὸ/RA-ASN μνημόσυνον/N2N-ASN αὐτῶν/RD-GPM ἀπὸ/P τῆς/RA-GSF γῆς/N1-GSF 
+ ὁ/RA-NSM θεὸς/N2-NSM κριτὴς/N1M-NSM δίκαιος/A1A-NSM καὶ/C οὐ/D θαυμάσει/VF-FAI3S πρόσωπον/N2N-ASN 
+ ὠνείδισαν/VSI-AAI3P γὰρ/X ἔθνη/N3E-APN Ιερουσαλημ/N-AS ἐν/P καταπατήσει/VF-FAI3S κατεσπάσθη/VSI-API3S τὸ/RA-ASN κάλλος/N3E-ASN αὐτῆς/RD-GSF ἀπὸ/P θρόνου/N2-GSM δόξης/N1S-GSF 
+ περιεζώσατο/VAI-AMI3S σάκκον/N2-ASM ἀντὶ/P ἐνδύματος/N3M-GSN εὐπρεπείας/N1A-GSF σχοινίον/N2-ASN περὶ/P τὴν/RA-ASF κεφαλὴν/N1-ASF αὐτῆς/RD-GSF ἀντὶ/P στεφάνου/N2-GSM 
+ περιείλατο/VBI-AMI3S μίτραν/N1A-ASF δόξης/N1S-GSF ἣν/RR-ASF περιέθηκεν/VAI-AAI3S αὐτῇ/RD-DSF ὁ/RA-NSM θεός/N2-NSM ἐν/P ἀτιμίᾳ/N1A-DSF τὸ/RA-ASN κάλλος/N3E-ASN αὐτῆς/RD-GSF ἀπερρίφη/VVI-API3S ἐπὶ/P τὴν/RA-ASF γῆν/N1-ASF 
+ καὶ/C ἐγὼ/RP-NS εἶδον/VBI-AAI3P καὶ/C ἐδεήθην/VCI-API1S τοῦ/RA-GSN προσώπου/N2N-GSN κυρίου/N2-GSM καὶ/C εἶπον/VBI-AAI3P ἱκάνωσον/VA-AAD2S κύριε/N2-VSM τοῦ/RA-GSN βαρύνεσθαι/V1-PMN χεῖρά/N3-ASF σου/RP-GS ἐπὶ/P Ιερουσαλημ/N-DS ἐν/P ἐπαγωγῇ/N1-DSF ἐθνῶν/N3E-GPN 
+ ὅτι/C ἐνέπαιξαν/VVI-AAI3P καὶ/C οὐκ/D ἐφείσαντο/VAI-AMI3P ἐν/P ὀργῇ/N1-DSF καὶ/C θυμῷ/N2-DSM μετὰ/P μηνίσεως/N3I-GSF καὶ/C συντελεσθήσονται/VS-FPI3P ἐὰν/C μὴ/D σύ/RP-NS κύριε/N2-VSM ἐπιτιμήσῃς/VA-AAS2S αὐτοῖς/RD-DPM ἐν/P ὀργῇ/N1-DSF σου/RP-GS 
+ ὅτι/C οὐκ/D ἐν/P ζήλει/V4-PAI3S ἐποίησαν/VAI-AAI3P ἀλλ'/C ἐν/P ἐπιθυμίᾳ/N1A-DSF ψυχῆς/N1-GSF ἐκχέαι/VA-AAN τὴν/RA-ASF ὀργὴν/N1-ASF αὐτῶν/RD-GPM εἰς/P ἡμᾶς/RP-AP ἐν/P ἁρπάγματι/N3M-DSN 
+ μὴ/D χρονίσῃς/VA-AAS2S ὁ/RA-NSM θεός/N2-NSM τοῦ/RA-GSN ἀποδοῦναι/VO-AAN αὐτοῖς/RD-DPM εἰς/P κεφαλάς/N1-APF τοῦ/RA-GSN εἰπεῖν/VB-AAN τὴν/RA-ASF ὑπερηφανίαν/N1A-ASF τοῦ/RA-GSM δράκοντος/N3-GSM ἐν/P ἀτιμίᾳ/N1A-DSF 
+ καὶ/C οὐκ/D ἐχρόνισα/VAI-AAI1S ἕως/C ἔδειξέν/VAI-AAI3S μοι/RP-DS ὁ/RA-NSM θεὸς/N2-NSM τὴν/RA-ASF ὕβριν/N3I-ASF αὐτοῦ/RD-GSM ἐκκεκεντημένον/VMI-XMPASM ἐπὶ/P τῶν/RA-GPN ὀρέων/N3E-GPN Αἰγύπτου/N2-GSM ὑπὲρ/P ἐλάχιστον/A1-ASMS ἐξουδενωμένον/VM-XMPASM ἐπὶ/P γῆς/N1-GSF καὶ/C θαλάσσης/N1S-GSF 
+ τὸ/RA-ASN σῶμα/N3M-ASN αὐτοῦ/RD-GSM διαφερόμενον/V1-PMPASM ἐπὶ/P κυμάτων/N3M-GPN ἐν/P ὕβρει/N3I-DSF πολλῇ/A1-DSF καὶ/C οὐκ/D ἦν/V9-IAI3S ὁ/RA-NSM θάπτων/V1-PAPNSM ὅτι/C ἐξουθένωσεν/VA-AAI3S αὐτὸν/RD-ASM ἐν/P ἀτιμίᾳ/N1A-DSF 
+ οὐκ/D ἐλογίσατο/VAI-AMI3S ὅτι/C ἄνθρωπός/N2-NSM ἐστιν/V9-PAI3S καὶ/C τὸ/RA-ASN ὕστερον/A1A-B οὐκ/D ἐλογίσατο/VAI-AMI3S 
+ εἶπεν/VBI-AAI3S ἐγὼ/RP-NSM κύριος/N2-NSM γῆς/N1-GSF καὶ/C θαλάσσης/N1S-GSF ἔσομαι/VF-FMI1S καὶ/C οὐκ/D ἐπέγνω/VZI-AAI3S ὅτι/C ὁ/RA-NSM θεὸς/N2-NSM μέγας/A1P-NSM κραταιὸς/A1A-NSM ἐν/P ἰσχύι/N3U-DSF αὐτοῦ/RD-GSM τῇ/RA-DSF μεγάλῃ/A1-DSF 
+ αὐτὸς/RD-NSM βασιλεὺς/N3V-NSM ἐπὶ/P τῶν/RA-GPM οὐρανῶν/N2-GPM καὶ/C κρίνων/N2N-GPN βασιλεῖς/N3V-NPM καὶ/C ἀρχάς/N1-APF 
+ ὁ/RA-NSM ἀνιστῶν/V6-PAPGPM ἐμὲ/RP-AS εἰς/P δόξαν/N1S-ASF καὶ/C κοιμίζων/V1-PAPNSM ὑπερηφάνους/A1B-APF εἰς/P ἀπώλειαν/N1A-ASF αἰῶνος/N3W-GSM ἐν/P ἀτιμίᾳ/N1A-DSF ὅτι/C οὐκ/D ἔγνωσαν/VZI-AAI3P αὐτόν/RD-ASM 
+ καὶ/C νῦν/D ἴδετε/VB-AAD2P οἱ/RA-NPM μεγιστᾶνες/N3-NPM τῆς/RA-GSF γῆς/N1-GSF τὸ/RA-ASN κρίμα/N3M-ASN τοῦ/RA-GSM κυρίου/N2-GSM ὅτι/C μέγας/A1P-NSM βασιλεὺς/N3V-NSM καὶ/C δίκαιος/A1A-NSM κρίνων/N2N-GPN τὴν/RA-ASF ὑπ'/P οὐρανόν/N2-ASM 
+ εὐλογεῖτε/V2-PAI2P τὸν/RA-ASM θεόν/N2-ASM οἱ/RA-NPM φοβούμενοι/V2-PMPNPM τὸν/RA-ASM κύριον/N2-ASM ἐν/P ἐπιστήμῃ/N1-DSF ὅτι/C τὸ/RA-ASN ἔλεος/N3E-ASN κυρίου/N2-GSM ἐπὶ/P τοὺς/RA-APM φοβουμένους/V2-PMPAPM αὐτὸν/RD-ASM μετὰ/P κρίματος/N3M-GSN 
+ τοῦ/RA-GSN διαστεῖλαι/VA-AAN ἀνὰ/P μέσον/A1-ASM δικαίου/A1A-GSM καὶ/C ἁμαρτωλοῦ/A1B-GSM ἀποδοῦναι/VO-AAN ἁμαρτωλοῖς/A1B-DPM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM κατὰ/P τὰ/RA-APN ἔργα/N2N-APN αὐτῶν/RD-GPM 
+ καὶ/C ἐλεῆσαι/VA-AAN δίκαιον/A1A-ASM ἀπὸ/P ταπεινώσεως/N3I-GSF ἁμαρτωλοῦ/A1B-GSM καὶ/C ἀποδοῦναι/VO-AAN ἁμαρτωλῷ/A1B-DSM ἀνθ'/P ὧν/RR-GPM ἐποίησεν/VAI-AAI3S δικαίῳ/A1A-DSM 
+ ὅτι/C χρηστὸς/A1-NSM ὁ/RA-NSM κύριος/N2-NSM τοῖς/RA-DPM ἐπικαλουμένοις/V2-PMPDPM αὐτὸν/RD-ASM ἐν/P ὑπομονῇ/N1-DSF ποιῆσαι/VA-AAN κατὰ/P τὸ/RA-ASN ἔλεος/N3E-ASN αὐτοῦ/RD-GSM τοῖς/RA-DPM ὁσίοις/A1A-DPM αὐτοῦ/RD-GSM παρεστάναι/VXI-XAN διὰ/P παντὸς/A3-GSM ἐνώπιον/A1B-ASM αὐτοῦ/RD-GSM ἐν/P ἰσχύι/N3U-DSF 
+ εὐλογητὸς/A1-NSM κύριος/N2-NSM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM ἐνώπιον/A1B-ASM δούλων/N2-GPM αὐτοῦ/RD-GSM 
+ ψαλμὸς/N2-NSM τῷ/RA-DSM Σαλωμων/N-DSM περὶ/P δικαίων/A1A-GPM 
+ ἵνα/D τί/RI-ASN ὑπνοῖς/N2-DPM ψυχή/N1-NSF καὶ/C οὐκ/D εὐλογεῖς/V2-PAI2S τὸν/RA-ASM κύριον/N2-ASM ὕμνον/N2-ASM καινὸν/A1-ASM ψάλατε/VB-AAD2P τῷ/RA-DSM θεῷ/N2-DSM τῷ/RA-DSM αἰνετῷ/A1-DSM 
+ ψάλλε/V1-PAD2S καὶ/C γρηγόρησον/VA-AAD2S ἐπὶ/P τὴν/RA-ASF γρηγόρησιν/N3I-ASF αὐτοῦ/RD-GSM ὅτι/C ἀγαθὸς/A1-NSM ψαλμὸς/N2-NSM τῷ/RA-DSM θεῷ/N2-DSM ἐξ/P ἀγαθῆς/A1-GSF καρδίας/N1A-GSF 
+ δίκαιοι/A1A-NPM μνημονεύουσιν/V1-PAI3P διὰ/P παντὸς/A3-GSM τοῦ/RA-GSM κυρίου/N2-GSM ἐν/P ἐξομολογήσει/VF-FAI3S καὶ/C δικαιώσει/N3E-DSF τὰ/RA-APN κρίματα/N3M-APN κυρίου/N2-GSM 
+ οὐκ/D ὀλιγωρήσει/N3I-DSF δίκαιος/A1A-NSM παιδευόμενος/V1-PMPNSM ὑπὸ/P κυρίου/N2-GSM ἡ/RA-NSF εὐδοκία/N1A-NSF αὐτοῦ/RD-GSM διὰ/P παντὸς/A3-GSM ἔναντι/D κυρίου/N2-GSM 
+ προσέκοψεν/VAI-AAI3S ὁ/RA-NSM δίκαιος/A1A-NSM καὶ/C ἐδικαίωσεν/VAI-AAI3S τὸν/RA-ASM κύριον/N2-ASM ἔπεσεν/VAI-AAI3S καὶ/C ἀποβλέπει/V1-PAI3S τί/RI-ASN ποιήσει/VF-FAI3S αὐτῷ/RD-DSM ὁ/RA-NSM θεός/N2-NSM ἀποσκοπεύει/VI-PAI3S ὅθεν/D ἥξει/VF-FAI3S σωτηρία/N1A-NSF αὐτοῦ/RD-GSM 
+ ἀλήθεια/N1A-NSF τῶν/RA-GPM δικαίων/A1A-GPM παρὰ/P θεοῦ/N2-GSM σωτῆρος/N3H-GSM αὐτῶν/RD-GPM οὐκ/D αὐλίζεται/V1-PMI3S ἐν/P οἴκῳ/N2-DSM δικαίου/A1A-GSM ἁμαρτία/N1A-NSF ἐφ'/P ἁμαρτίαν/N1A-ASF 
+ ἐπισκέπτεται/V1-PMI3S διὰ/P παντὸς/A3-GSM τὸν/RA-ASM οἶκον/N2-ASM αὐτοῦ/RD-GSM ὁ/RA-NSM δίκαιος/A1A-NSM τοῦ/RA-GSN ἐξᾶραι/VA-AAN ἀδικίαν/N1A-ASF ἐν/P παραπτώματι/N3M-DSN αὐτοῦ/RD-GSM 
+ ἐξιλάσατο/VAI-AMI3S περὶ/P ἀγνοίας/N1A-GSF ἐν/P νηστείᾳ/N1A-NSF καὶ/C ταπεινώσει/N3I-DSF ψυχῆς/N1-GSF αὐτοῦ/RD-GSM καὶ/C ὁ/RA-NSM κύριος/N2-NSM καθαρίζει/V1-PAI3S πᾶν/A3-NSN ἄνδρα/N3-ASM ὅσιον/A1A-ASM καὶ/C τὸν/RA-ASM οἶκον/N2-ASM αὐτοῦ/RD-GSM 
+ προσέκοψεν/VAI-AAI3S ἁμαρτωλὸς/A1B-NSM καὶ/C καταρᾶται/V3-PMI3S ζωὴν/N1-ASF αὐτοῦ/RD-GSM τὴν/RA-ASF ἡμέραν/N1A-ASF γενέσεως/N3I-GSF αὐτοῦ/RD-GSM καὶ/C ὠδῖνας/N3-APF μητρός/N3-GSF 
+ προσέθηκεν/VAI-AAI3S ἁμαρτίας/N1A-GSF ἐφ'/P ἁμαρτίας/N1A-GSF τῇ/RA-DSF ζωῇ/N1-DSF αὐτοῦ/RD-GSM ἔπεσεν/VAI-AAI3S ὅτι/C πονηρὸν/A1A-ASM τὸ/RA-ASN πτῶμα/N3M-ASN αὐτοῦ/RD-GSM καὶ/C οὐκ/D ἀναστήσεται/VF-FMI3S 
+ ἡ/RA-NSF ἀπώλεια/N1A-NSF τοῦ/RA-GSM ἁμαρτωλοῦ/A1B-GSM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM καὶ/C οὐ/D μνησθήσεται/VS-FPI3S ὅταν/D ἐπισκέπτηται/V1-PMS3S δικαίους/A1A-APM 
+ αὕτη/RD-NSF ἡ/RA-NSF μερὶς/N3D-NSF τῶν/RA-GPM ἁμαρτωλῶν/A1B-GPM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM οἱ/RA-NPM δὲ/X φοβούμενοι/V2-PMPNPM τὸν/RA-ASM κύριον/N2-ASM ἀναστήσονται/VF-FMI3P εἰς/P ζωὴν/N1-ASF αἰώνιον/A1B-ASM καὶ/C ἡ/RA-NSF ζωὴ/N1-NSF αὐτῶν/RD-GPM ἐν/P φωτὶ/N3T-DSN κυρίου/N2-GSM καὶ/C οὐκ/D ἐκλείψει/N3I-DSF ἔτι/D 
+ διαλογὴ/N1-NSF τοῦ/RA-GSM Σαλωμων/N-GSM τοῖς/RA-DPM ἀνθρωπαρέσκοις/N2-DPM 
+ ἵνα/D τί/RI-ASN σύ/RP-NS βέβηλε/A1B-VSN κάθησαι/V5-PMI2S ἐν/P συνεδρίῳ/N2N-DSN ὁσίων/A1A-GPM καὶ/C ἡ/RA-NSF καρδία/N1A-NSF σου/RP-GS μακρὰν/A1A-ASF ἀφέστηκεν/VXI-XAI3S ἀπὸ/P τοῦ/RA-GSM κυρίου/N2-GSM ἐν/P παρανομίαις/N1A-DPF παροργίζων/V1-PAPNSM τὸν/RA-ASM θεὸν/N2-ASM Ισραηλ/N-GS 
+ περισσὸς/A1-NSM ἐν/P λόγοις/N2-DPM περισσὸς/A1-NSM ἐν/P σημειώσει/N3I-DSF ὑπὲρ/P πάντας/A3-APM ὁ/RA-NSM σκληρὸς/A1A-NSM ἐν/P λόγοις/N2-DPM κατακρῖναι/VA-AAN ἁμαρτωλοὺς/A1B-APM ἐν/P κρίσει/N3I-DSF 
+ καὶ/C ἡ/RA-NSF χεὶρ/N3-NSF αὐτοῦ/RD-GSM ἐν/P πρώτοις/A1-DPM ἐπ'/P αὐτὸν/RD-ASM ὡς/C ἐν/P ζήλει/N3-DSN καὶ/C αὐτὸς/RD-NSM ἔνοχος/A1B-NSM ἐν/P ποικιλίᾳ/N1A-DSF ἁμαρτιῶν/N1A-GPF καὶ/C ἐν/P ἀκρασίαις/N1A-DPF 
+ οἱ/RA-NPM ὀφθαλμοὶ/N2-NPM αὐτοῦ/RD-GSM ἐπὶ/P πᾶσαν/A1S-ASF γυναῖκα/N3K-ASF ἄνευ/P διαστολῆς/N1-GSF ἡ/RA-NSF γλῶσσα/N1S-NSF αὐτοῦ/RD-GSM ψευδὴς/A3H-NSM ἐν/P συναλλάγματι/N3M-DSN μεθ'/P ὅρκου/N2-GSM 
+ ἐν/P νυκτὶ/N3-DSF καὶ/C ἐν/P ἀποκρύφοις/A1B-DPF ἁμαρτάνει/V1-PAI3S ὡς/C οὐχ/D ὁρώμενος/V3-PMPNSM ἐν/P ὀφθαλμοῖς/N2-DPM αὐτοῦ/RD-GSM λαλεῖ/V2-PAI3S πάσῃ/A1S-DSF γυναικὶ/N3K-DSF ἐν/P συνταγῇ/N1-DSF κακίας/N1A-GSF ταχὺς/A3U-NSM εἰσόδῳ/N2-DSF εἰς/P πᾶσαν/A1S-ASF οἰκίαν/N1A-ASF ἐν/P ἱλαρότητι/N3T-DSF ὡς/C ἄκακος/A1B-NSM 
+ ἐξάραι/VB-AAN ὁ/RA-NSM θεὸς/N2-NSM τοὺς/RA-APM ἐν/P ὑποκρίσει/N3I-DSF ζῶντας/V3-PAPAPM μετὰ/P ὁσίων/A1A-GPM ἐν/P φθορᾷ/N1A-DSF σαρκὸς/N3K-GSF αὐτοῦ/RD-GSM καὶ/C πενίᾳ/N1A-DSF τὴν/RA-ASF ζωὴν/N1-ASF αὐτοῦ/RD-GSM 
+ ἀνακαλύψαι/VA-AAN ὁ/RA-NSM θεὸς/N2-NSM τὰ/RA-APN ἔργα/N2N-APN ἀνθρώπων/N2-GPM ἀνθρωπαρέσκων/N2-DPM ἐν/P καταγέλωτι/N3-DSM καὶ/C μυκτηρισμῷ/N2-DSM τὰ/RA-APN ἔργα/N2N-APN αὐτοῦ/RD-GSM 
+ καὶ/C δικαιώσαισαν/VA-AAO3P ὅσιοι/A1A-NPM τὸ/RA-ASN κρίμα/N3M-ASN τοῦ/RA-GSM θεοῦ/N2-GSM αὐτῶν/RD-GPM ἐν/P τῷ/RA-DSN ἐξαίρεσθαι/V1-PMN ἁμαρτωλοὺς/A1B-APM ἀπὸ/P προσώπου/N2N-GSN δικαίου/A1A-GSM ἀνθρωπάρεσκον/N2-ASM λαλοῦντα/V2-PAPASM νόμον/N2-ASM μετὰ/P δόλου/N2-GSM 
+ καὶ/C οἱ/RA-NPM ὀφθαλμοὶ/N2-NPM αὐτῶν/RD-GPM ἐπ'/P οἶκον/N2-ASM ἀνδρὸς/N3-GSM ἐν/P εὐσταθείᾳ/N1A-DSF ὡς/C ὄφις/N3I-NSM διαλῦσαι/VA-AAN σοφίαν/N1A-ASF ἀλλήλων/RD-GPM ἐν/P λόγοις/N2-DPM παρανόμων/A1B-GPM 
+ οἱ/RA-NPM λόγοι/N2-NPM αὐτοῦ/RD-GSM παραλογισμοὶ/N2-NPM εἰς/P πρᾶξιν/N3I-ASF ἐπιθυμίας/N1A-GSF ἀδίκου/A1B-GSM οὐκ/D ἀπέστη/VHI-AAI3S ἕως/C ἐνίκησεν/VAI-AAI3S σκορπίσαι/VA-AAN ὡς/C ἐν/P ὀρφανίᾳ/N1A-DSF 
+ καὶ/C ἠρήμωσεν/VAI-AAI3S οἶκον/N2-ASM ἕνεκεν/P ἐπιθυμίας/N1A-GSF παρανόμου/A1B-GSM παρελογίσατο/VAI-AMI3S ἐν/P λόγοις/N2-DPM ὅτι/C οὐκ/D ἔστιν/V9-PAI3S ὁρῶν/N2-GPM καὶ/C κρίνων/N2N-GPN 
+ ἐπλήσθη/VSI-API3S ἐν/P παρανομίᾳ/N1A-DSF ἐν/P ταύτῃ/RD-DSF καὶ/C οἱ/RA-NPM ὀφθαλμοὶ/N2-NPM αὐτοῦ/RD-GSM ἐπ'/P οἶκον/N2-ASM ἕτερον/A1A-ASM ὀλεθρεῦσαι/VA-AAN ἐν/P λόγοις/N2-DPM ἀναπτερώσεως/N3I-GSF 
+ οὐκ/D ἐμπίπλαται/V6-PMI3S ἡ/RA-NSF ψυχὴ/N1-NSF αὐτοῦ/RD-GSM ὡς/C ᾅδης/N1M-NSM ἐν/P πᾶσι/A3-DPM τούτοις/RD-DPM 
+ γένοιτο/VB-AMO3S κύριε/N2-VSM ἡ/RA-NSF μερὶς/N3D-NSF αὐτοῦ/RD-GSM ἐν/P ἀτιμίᾳ/N1A-DSF ἐνώπιόν/A1B-ASM σου/RP-GS ἡ/RA-NSF ἔξοδος/N2-NSF αὐτοῦ/RD-GSM ἐν/P στεναγμοῖς/N2-DPM καὶ/C ἡ/RA-NSF εἴσοδος/N2-NSF αὐτοῦ/RD-GSM ἐν/P ἀρᾷ/N1A-DSF 
+ ἐν/P ὀδύναις/N1-DPF καὶ/C πενίᾳ/N1A-DSF καὶ/C ἀπορίᾳ/N1A-DSF ἡ/RA-NSF ζωὴ/N1-NSF αὐτοῦ/RD-GSM κύριε/N2-VSM ὁ/RA-NSM ὕπνος/N2-NSM αὐτοῦ/RD-GSM ἐν/P λύπαις/N1-DPF καὶ/C ἡ/RA-NSF ἐξέγερσις/N3I-NSF αὐτοῦ/RD-GSM ἐν/P ἀπορίαις/N1A-DPF 
+ ἀφαιρεθείη/VC-APO3S ὕπνος/N2-NSM ἀπὸ/P κροτάφων/N2-GPM αὐτοῦ/RD-GSM ἐν/P νυκτί/N3-DSF ἀποπέσοι/VF-FAO3S ἀπὸ/P παντὸς/A3-GSN ἔργου/N2N-GSN χειρῶν/N3-GPF αὐτοῦ/RD-GSM ἐν/P ἀτιμίᾳ/N1A-DSF 
+ κενὸς/A1-NSM χερσὶν/N3-DPF αὐτοῦ/RD-GSM εἰσέλθοι/VB-AAO3S εἰς/P τὸν/RA-ASM οἶκον/N2-ASM αὐτοῦ/RD-GSM καὶ/C ἐλλιπὴς/A3H-NSM ὁ/RA-NSM οἶκος/N2-NSM αὐτοῦ/RD-GSM ἀπὸ/P παντός/A3-GSM οὗ/RR-GSM ἐμπλήσει/VF-FAI3S ψυχὴν/N1-ASF αὐτοῦ/RD-GSM 
+ ἐν/P μονώσει/N3I-DSF ἀτεκνίας/N1A-APF τὸ/RA-ASN γῆρας/N3-ASN αὐτοῦ/RD-GSM εἰς/P ἀνάλημψιν/N3I-ASF 
+ σκορπισθείησαν/VC-APO3P σάρκες/N3K-NPF ἀνθρωπαρέσκων/N2-GPM ὑπὸ/P θηρίων/N2N-GPN καὶ/C ὀστᾶ/N2N-APN παρανόμων/A1B-GPM κατέναντι/D τοῦ/RA-GSM ἡλίου/N2-GSM ἐν/P ἀτιμίᾳ/N1A-DSF 
+ ὀφθαλμοὺς/N2-APM ἐκκόψαισαν/VA-AAO3P κόρακες/N3K-NPM ὑποκρινομένων/V1-PMPGPM ὅτι/C ἠρήμωσαν/VAI-AAI3P οἴκους/N2-APM πολλοὺς/A1-APM ἀνθρώπων/N2-GPM ἐν/P ἀτιμίᾳ/N1A-DSF καὶ/C ἐσκόρπισαν/VAI-AAI3P ἐν/P ἐπιθυμίᾳ/N1A-DSF 
+ καὶ/C οὐκ/D ἐμνήσθησαν/VSI-API3P θεοῦ/N2-GSM καὶ/C οὐκ/D ἐφοβήθησαν/VCI-API3P τὸν/RA-ASM θεὸν/N2-ASM ἐν/P ἅπασι/N1T-DSM τούτοις/RD-DPM καὶ/C παρώργισαν/VAI-AAI3P τὸν/RA-ASM θεὸν/N2-ASM καὶ/C παρώξυναν/VAI-AAI3P 
+ ἐξάραι/VA-AAN αὐτοὺς/RD-APM ἀπὸ/P τῆς/RA-GSF γῆς/N1-GSF ὅτι/C ψυχὰς/N1-APF ἀκάκων/A1B-GPF παραλογισμῷ/N2-DSM ὑπεκρίνοντο/V1I-IMI3P 
+ μακάριοι/A1A-NPM οἱ/RA-NPM φοβούμενοι/V2-PMPNPM τὸν/RA-ASM κύριον/N2-ASM ἐν/P ἀκακίᾳ/N1A-DSF αὐτῶν/RD-GPM ὁ/RA-NSM κύριος/N2-NSM ῤύσεται/VF-FMI3S αὐτοὺς/RD-APM ἀπὸ/P ἀνθρώπων/N2-GPM δολίων/A1A-GPM καὶ/C ἁμαρτωλῶν/A1B-GPF καὶ/C ῤύσεται/VF-FMI3S ἡμᾶς/RP-AP ἀπὸ/P παντὸς/A3-GSN σκανδάλου/N2N-GSN παρανόμου/A1B-GSM 
+ ἐξάραι/VA-AAN ὁ/RA-NSM θεὸς/N2-NSM τοὺς/RA-APM ποιοῦντας/V2-PAPAPM ἐν/P ὑπερηφανίᾳ/N1A-DSF πᾶσαν/A1S-ASF ἀδικίαν/N1A-ASF ὅτι/C κριτὴς/N1M-NSM μέγας/A1P-NSM καὶ/C κραταιὸς/A1A-NSM κύριος/N2-NSM ὁ/RA-NSM θεὸς/N2-NSM ἡμῶν/RP-GP ἐν/P δικαιοσύνῃ/N1-DSF 
+ γένοιτο/VB-AMO3S κύριε/N2-VSM τὸ/RA-ASN ἔλεός/N3E-ASN σου/RP-GS ἐπὶ/P πάντας/A3-APM τοὺς/RA-APM ἀγαπῶντάς/V3-PAPAPM σε/RP-AS 
+ ψαλμὸς/N2-NSM τῷ/RA-DSM Σαλωμων/N-DSM 
+ κύριε/N2-VSM ὁ/RA-NSM θεός/N2-NSM αἰνέσω/VA-AAS1S τῷ/RA-DSN ὀνόματί/N3M-DSN σου/RP-GS ἐν/P ἀγαλλιάσει/N3I-DSF ἐν/P μέσῳ/A1-DSM ἐπισταμένων/V6-PMPGPM τὰ/RA-APN κρίματά/N3M-APN σου/RP-GS τὰ/RA-APN δίκαια/A1A-APN 
+ ὅτι/C σὺ/RP-NS χρηστὸς/A1-NSM καὶ/C ἐλεήμων/A3N-NSM ἡ/RA-NSF καταφυγὴ/N1-NSF τοῦ/RA-GSM πτωχοῦ/N2-GSM ἐν/P τῷ/RA-DSM κεκραγέναι/VX-XAN με/RP-AS πρὸς/P σὲ/RP-AS μὴ/D παρασιωπήσῃς/VA-AAS2S ἀπ'/P ἐμοῦ/RP-GS 
+ οὐ/D γὰρ/X λήψεταί/VF-FMI3S τις/RI-NSM σκῦλα/N2N-APN παρὰ/P ἀνδρὸς/N3-GSM δυνατοῦ/A1-GSM καὶ/C τίς/RI-NSM λήψεται/VF-FMI3S ἀπὸ/P πάντων/A3-GPM ὧν/RR-GPM ἐποίησας/VAI-AAI2S ἐὰν/C μὴ/D σὺ/RP-NS δῷς/VO-AAS2S 
+ ὅτι/C ἄνθρωπος/N2-NSM καὶ/C ἡ/RA-NSF μερὶς/N3D-NSF αὐτοῦ/RD-GSM παρὰ/P σοῦ/RP-GS ἐν/P σταθμῷ/N2-DSM οὐ/D προσθήσει/VF-FAI3S τοῦ/RA-GSN πλεονάσαι/VA-AAN παρὰ/P τὸ/RA-ASN κρίμα/N3M-ASN σου/RP-GS ὁ/RA-NSM θεός/N2-NSM 
+ ἐν/P τῷ/RA-DSN θλίβεσθαι/V1-PMN ἡμᾶς/RP-AP ἐπικαλεσόμεθά/VF-FMI1P σε/RP-AS εἰς/P βοήθειαν/N1A-ASF καὶ/C σὺ/RP-NS οὐκ/D ἀποστρέψῃ/VF-FMI2S τὴν/RA-ASF δέησιν/N3I-ASF ἡμῶν/RP-GP ὅτι/C σὺ/RP-NS ὁ/RA-NSM θεὸς/N2-NSM ἡμῶν/RP-GP εἶ/V9-PAI2S 
+ μὴ/D βαρύνῃς/V1-PAS2S τὴν/RA-ASF χεῖρά/N3-ASF σου/RP-GS ἐφ'/P ἡμᾶς/RP-AP ἵνα/C μὴ/D δι'/P ἀνάγκην/N1-ASF ἁμάρτωμεν/VB-AAS1P 
+ καὶ/C ἐὰν/C μὴ/D ἐπιστρέψῃς/VA-AAS2S ἡμᾶς/RP-AP οὐκ/D ἀφεξόμεθα/VF-FMI1P ἀλλ'/C ἐπὶ/P σὲ/RP-AS ἥξομεν/VF-FAI1P 
+ ἐὰν/C γὰρ/X πεινάσω/VA-AAS1S πρὸς/P σὲ/RP-AS κεκράξομαι/VFX-FMI1S ὁ/RA-NSM θεός/N2-NSM καὶ/C σὺ/RP-NS δώσεις/VF-FAI2S μοι/RP-DS 
+ τὰ/RA-APN πετεινὰ/N2N-APN καὶ/C τοὺς/RA-APM ἰχθύας/N3U-APM σὺ/RP-NS τρέφεις/V1-PAI2S ἐν/P τῷ/RA-DSN διδόναι/V8-PAN σε/RP-AS ὑετὸν/N2-ASM ἐρήμοις/N2-DPF εἰς/P ἀνατολὴν/N1-ASF χλόης/N1-GSF 
+ ἡτοίμασας/VAI-AAI2S χορτάσματα/N3M-APN ἐν/P ἐρήμῳ/N2-DSF παντὶ/A3-DSM ζῶντι/V3-PAPDSM καὶ/C ἐὰν/C πεινάσωσιν/VA-AAS3P πρὸς/P σὲ/RP-AS ἀροῦσιν/VF2-FAI3P πρόσωπον/N2N-ASN αὐτῶν/RD-GPM 
+ τοὺς/RA-APM βασιλεῖς/N3V-NPM καὶ/C ἄρχοντας/V1-PAPAPM καὶ/C λαοὺς/N2-APM σὺ/RP-NS τρέφεις/V1-PAI2S ὁ/RA-NSM θεός/N2-NSM καὶ/C πτωχοῦ/N2-GSM καὶ/C πένητος/N3T-GSM ἡ/RA-NSF ἐλπὶς/N3D-NSF τίς/RI-NSM ἐστιν/V9-PAI3S εἰ/C μὴ/D σύ/RP-NS κύριε/N2-VSM 
+ καὶ/C σὺ/RP-NS ἐπακούσῃ/VA-AAS3S ὅτι/C τίς/RI-NSM χρηστὸς/A1-NSM καὶ/C ἐπιεικὴς/A3H-NSM ἀλλ'/C ἢ/C σὺ/RP-NS εὐφρᾶναι/VA-AAN ψυχὴν/N1-ASF ταπεινοῦ/A1-GSM ἐν/P τῷ/RA-DSN ἀνοῖξαι/VA-AAN χεῖρά/N3-ASF σου/RP-GS ἐν/P ἐλέει/N3E-DSN 
+ ἡ/RA-NSF χρηστότης/N3T-NSF ἀνθρώπου/N2-GSM ἐν/P φειδοῖ/N3-DSF καὶ/C ἡ/RA-NSF αὔριον/D καὶ/C ἐὰν/C δευτερώσῃ/VA-AAS3S ἄνευ/P γογγυσμοῦ/N2-GSM καὶ/C τοῦτο/RD-ASN θαυμάσειας/VA-AAO2S 
+ τὸ/RA-ASN δὲ/X δόμα/N3M-ASN σου/RP-GS πολὺ/A1P-ASN μετὰ/P χρηστότητος/N3T-GSF καὶ/C πλούσιον/A1A-ASM καὶ/C οὗ/RR-GSM ἐστιν/V9-PAI3S ἡ/RA-NSF ἐλπὶς/N3D-NSF ἐπὶ/P σέ/RP-AS οὐ/D φείσεται/VF-FMI3S ἐν/P δόματι/N3M-DSN 
+ ἐπὶ/P πᾶσαν/A1S-ASF τὴν/RA-ASF γῆν/N1-ASF τὸ/RA-ASN ἔλεός/N3E-ASN σου/RP-GS κύριε/N2-VSM ἐν/P χρηστότητι/N3T-DSF 
+ μακάριος/A1A-NSM οὗ/RR-GSM μνημονεύει/V1-PAI3S ὁ/RA-NSM θεὸς/N2-NSM ἐν/P συμμετρίᾳ/N1A-NSF αὐταρκείας/N1A-GSF ἐὰν/C ὑπερπλεονάσῃ/VA-AAS3S ὁ/RA-NSM ἄνθρωπος/N2-NSM ἐξαμαρτάνει/V1-PAI3S 
+ ἱκανὸν/A1-ASM τὸ/RA-ASN μέτριον/A1A-ASM ἐν/P δικαιοσύνῃ/N1-DSF καὶ/C ἐν/P τούτῳ/RD-DSM ἡ/RA-NSF εὐλογία/N1A-NSF κυρίου/N2-GSM εἰς/P πλησμονὴν/N1-ASF ἐν/P δικαιοσύνῃ/N1-DSF 
+ εὐφρανθείησαν/VC-APO3P οἱ/RA-NPM φοβούμενοι/V2-PMPNPM κύριον/N2-ASM ἐν/P ἀγαθοῖς/A1-DPM καὶ/C ἡ/RA-NSF χρηστότης/N3T-NSF σου/RP-GS ἐπὶ/P Ισραηλ/N-DS ἐν/P τῇ/RA-DSF βασιλείᾳ/N1A-DSF σου/RP-GS 
+ εὐλογημένη/VM-XMPNSF ἡ/RA-NSF δόξα/N1S-NSF κυρίου/N2-GSM ὅτι/C αὐτὸς/RD-NSM βασιλεὺς/N3V-NSM ἡμῶν/RP-GP 
+ ἐν/P ἐλπίδι/N3D-DSF τῷ/RA-DSM Σαλωμων/N-DSM 
+ μακάριος/A1A-NSM ἀνήρ/N3-NSM οὗ/RR-GSM ἡ/RA-NSF καρδία/N1A-NSF αὐτοῦ/RD-GSM ἑτοίμη/A1-NSF ἐπικαλέσασθαι/VA-AMN τὸ/RA-ASN ὄνομα/N3M-ASN κυρίου/N2-GSM ἐν/P τῷ/RA-DSN μνημονεύειν/V1-PAN αὐτὸν/RD-ASM τὸ/RA-ASN ὄνομα/N3M-ASN κυρίου/N2-GSM σωθήσεται/VC-FPI3S 
+ αἱ/RA-NPF ὁδοὶ/N2-NPF αὐτοῦ/RD-GSM κατευθύνονται/V1-PMI3P ὑπὸ/P κυρίου/N2-GSM καὶ/C πεφυλαγμένα/VK-XMPAPN ἔργα/N2N-APN χειρῶν/N3-GPF αὐτοῦ/RD-GSM ὑπὸ/P κυρίου/N2-GSM θεοῦ/N2-GSM αὐτοῦ/RD-GSM 
+ ἀπὸ/P ὁράσεως/N3I-GSF πονηρῶν/A1A-GPN ἐνυπνίων/N2N-GPN αὐτοῦ/RD-GSM οὐ/D ταραχθήσεται/VQ-FPI3S ἡ/RA-NSF ψυχὴ/N1-NSF αὐτοῦ/RD-GSM ἐν/P διαβάσει/N3I-DSF ποταμῶν/N2-GPM καὶ/C σάλῳ/N2-DSM θαλασσῶν/N1S-GPF οὐ/D πτοηθήσεται/VC-FPI3S 
+ ἐξανέστη/VHI-AAI3S ἐξ/P ὕπνου/N2-GSM αὐτοῦ/RD-GSM καὶ/C ηὐλόγησεν/VAI-AAI3S τῷ/RA-DSN ὀνόματι/N3M-DSN κυρίου/N2-GSM ἐπ'/P εὐσταθείᾳ/N1A-DSF καρδίας/N1A-GSF αὐτοῦ/RD-GSM ἐξύμνησεν/VAI-AAI3S τῷ/RA-DSN ὀνόματι/N3M-DSN τοῦ/RA-GSM θεοῦ/N2-GSM αὐτοῦ/RD-GSM 
+ καὶ/C ἐδεήθη/VCI-API3S τοῦ/RA-GSN προσώπου/N2N-GSN κυρίου/N2-GSM περὶ/P παντὸς/A3-GSM τοῦ/RA-GSM οἴκου/N2-GSM αὐτοῦ/RD-GSM καὶ/C κύριος/N2-NSM εἰσήκουσεν/VAI-AAI3S προσευχὴν/N1-ASF παντὸς/A3-GSM ἐν/P φόβῳ/N2-DSM θεοῦ/N2-GSM 
+ καὶ/C πᾶν/A3-NSN αἴτημα/N3M-NSN ψυχῆς/N1-GSF ἐλπιζούσης/V1-PAPGSF πρὸς/P αὐτὸν/RD-ASM ἐπιτελεῖ/V2-PAI3S ὁ/RA-NSM κύριος/N2-NSM εὐλογητὸς/A1-NSM κύριος/N2-NSM ὁ/RA-NSM ποιῶν/A1A-ASN ἔλεος/N3E-ASN τοῖς/RA-DPM ἀγαπῶσιν/V3-PAI3P αὐτὸν/RD-ASM ἐν/P ἀληθείᾳ/N1A-DSF 
+ τῷ/RA-DSM Σαλωμων/N-DSM ἐπιστροφῆς/N1-GSF 
+ μὴ/D ἀποσκηνώσῃς/VA-AAS2S ἀφ'/P ἡμῶν/RP-GP ὁ/RA-NSM θεός/N2-NSM ἵνα/C μὴ/D ἐπιθῶνται/V2-PMS3P ἡμῖν/RP-DP οἳ/RR-NPM ἐμίσησαν/VAI-AAI3P ἡμᾶς/RP-AP δωρεάν/N1A-ASF 
+ ὅτι/C ἀπώσω/VA-AAS1S αὐτούς/RD-APM ὁ/RA-NSM θεός/N2-NSM μὴ/D πατησάτω/VA-AAD3S ὁ/RA-NSM ποὺς/N3-NSM αὐτῶν/RD-GPM κληρονομίαν/N1A-ASF ἁγιάσματός/N3M-GSN σου/RP-GS 
+ σὺ/RP-NS ἐν/P θελήματί/N3M-DSN σου/RP-GS παίδευσον/VF-FAPASN ἡμᾶς/RP-AP καὶ/C μὴ/D δῷς/VO-AAS2S ἔθνεσιν/N3E-DPN 
+ ἐὰν/C γὰρ/X ἀποστείλῃς/VA-AAS2S θάνατον/N2-ASM σὺ/RP-NS ἐντελῇ/V2-PAS3S αὐτῷ/RD-DSM περὶ/P ἡμῶν/RP-GP 
+ ὅτι/C σὺ/RP-NS ἐλεήμων/A3N-NSM καὶ/C οὐκ/D ὀργισθήσῃ/VC-FPI2S τοῦ/RA-GSN συντελέσαι/VA-AAN ἡμᾶς/RP-AP 
+ ἐν/P τῷ/RA-DSN κατασκηνοῦν/V4-PAN τὸ/RA-ASN ὄνομά/N3M-ASN σου/RP-GS ἐν/P μέσῳ/A1-DSM ἡμῶν/RP-GP ἐλεηθησόμεθα/VC-FPI1P καὶ/C οὐκ/D ἰσχύσει/VF-FAI3S πρὸς/P ἡμᾶς/RP-AP ἔθνος/N3E-ASN 
+ ὅτι/C σὺ/RP-NS ὑπερασπιστὴς/N1M-NSM ἡμῶν/RP-GP καὶ/C ἡμεῖς/RP-NP ἐπικαλεσόμεθά/VF-FMI1P σε/RP-AS καὶ/C σὺ/RP-NS ἐπακούσῃ/VA-AAS3S ἡμῶν/RP-GP 
+ ὅτι/C σὺ/RP-NS οἰκτιρήσεις/VF-FAI2S τὸ/RA-ASN γένος/N3E-ASN Ισραηλ/N-GS εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM καὶ/C οὐκ/D ἀπώσῃ/VA-AAS3S 
+ καὶ/C ἡμεῖς/RP-NP ὑπὸ/P ζυγόν/N2-ASN σου/RP-GS τὸν/RA-ASM αἰῶνα/N3W-ASM καὶ/C μάστιγα/N3G-ASF παιδείας/N1A-GSF σου/RP-GS 
+ κατευθυνεῖς/V1-PAI2S ἡμᾶς/RP-AP ἐν/P καιρῷ/N2-DSM ἀντιλήψεώς/N3I-GSF σου/RP-GS τοῦ/RA-GSN ἐλεῆσαι/VA-AAN τὸν/RA-ASM οἶκον/N2-ASM Ιακωβ/N-GSM εἰς/P ἡμέραν/N1A-ASF ἐν/P ᾗ/RR-DSF ἐπηγγείλω/VAI-AMI2S αὐτοῖς/RD-DPM 
+ τῷ/RA-DSM Σαλωμων/N-DSM εἰς/P νεῖκος/N3E-ASN 
+ θλῖψιν/N3I-ASF καὶ/C φωνὴν/N1-ASF πολέμου/N2-GSM ἤκουσεν/VAI-AAI3S τὸ/RA-ASN οὖς/N3-ASN μου/RP-GS φωνὴν/N1-ASF σάλπιγγος/N3G-GS ἠχούσης/V2-PAPGSF σφαγὴν/N1-ASF καὶ/C ὄλεθρον/N2-ASM 
+ φωνὴ/N1-NSF λαοῦ/N2-GSM πολλοῦ/A1-GSM ὡς/C ἀνέμου/N2-GSM πολλοῦ/A1-GSM σφόδρα/D ὡς/C καταιγὶς/N3I-NSF πυρὸς/N2-NSM πολλοῦ/A1-GSM φερομένου/V1-PMPGSM δι'/P ἐρήμου/N2-GSF 
+ καὶ/C εἶπα/VAI-AAI1S ἐν/P τῇ/RA-DSF καρδίᾳ/N1A-DSF μου/RP-GS ποῦ/D ἄρα/X κρινεῖ/VF2-FAI3S αὐτὸν/RD-ASM ὁ/RA-NSM θεός/N2-NSM 
+ φωνὴν/N1-ASF ἤκουσα/V1-PAPNSF εἰς/P Ιερουσαλημ/N-AS πόλιν/N3I-ASF ἁγιάσματος/N3M-GSN 
+ συνετρίβη/VDI-API3S ἡ/RA-NSF ὀσφύς/N3U-NSF μου/RP-GS ἀπὸ/P ἀκοῆς/N1-GSF παρελύθη/VCI-API3S γόνατά/N3-APN μου/RP-GS ἐφοβήθη/VCI-API3S ἡ/RA-NSF καρδία/N1A-NSF μου/RP-GS ἐταράχθη/VQI-API3S τὰ/RA-APN ὀστᾶ/N2N-APN μου/RP-GS ὡς/C λίνον/N2N-ASN 
+ εἶπα/VAI-AAI1S κατευθυνοῦσιν/V1-PAI3P ὁδοὺς/N2-APF αὐτῶν/RD-GPM ἐν/P δικαιοσύνῃ/N1-DSF 
+ ἀνελογισάμην/VAI-AMI1S τὰ/RA-APN κρίματα/N3M-APN τοῦ/RA-GSM θεοῦ/N2-GSM ἀπὸ/P κτίσεως/N3I-GSF οὐρανοῦ/N2-GSM καὶ/C γῆς/N1-GSF ἐδικαίωσα/VAI-AAI1S τὸν/RA-ASM θεὸν/N2-ASM ἐν/P τοῖς/RA-DPN κρίμασιν/N3M-DPN αὐτοῦ/RD-GSM τοῖς/RA-DPM ἀπ'/P αἰῶνος/N3W-GSM 
+ ἀνεκάλυψεν/VAI-AAI3S ὁ/RA-NSM θεὸς/N2-NSM τὰς/RA-APF ἁμαρτίας/N1A-GSF αὐτῶν/RD-GPM ἐναντίον/P τοῦ/RA-GSM ἡλίου/N2-GSM ἔγνω/VZI-AAI3S πᾶσα/A1S-NSF ἡ/RA-NSF γῆ/N1-NSF τὰ/RA-APN κρίματα/N3M-APN τοῦ/RA-GSM θεοῦ/N2-GSM τὰ/RA-APN δίκαια/A1A-APN 
+ ἐν/P καταγαίοις/A1-DPM κρυφίοις/A1A-DPM αἱ/RA-NPF παρανομίαι/N1A-NPF αὐτῶν/RD-GPM ἐν/P παροργισμῷ/N2-GPM υἱὸς/N2-NSM μετὰ/P μητρὸς/N3-GSF καὶ/C πατὴρ/N3-NSM μετὰ/P θυγατρὸς/N3-GSF συνεφύροντο/VBI-IMI3P 
+ ἐμοιχῶντο/V3I-IMI3P ἕκαστος/A1-NSM τὴν/RA-ASF γυναῖκα/N3K-ASF τοῦ/RA-GSM πλησίον/D αὐτοῦ/RD-GSM συνέθεντο/VE1-AMI3P αὑτοῖς/RD-DPM συνθήκας/N1-APF μετὰ/P ὅρκου/N2-GSM περὶ/P τούτων/RD-GPM 
+ τὰ/RA-APN ἅγια/A1A-APN τοῦ/RA-GSM θεοῦ/N2-GSM διηρπάζοσαν/VAI-AAI3P ὡς/C μὴ/D ὄντος/V9-PAPGSM κληρονόμου/N2-GSM λυτρουμένου/V4-PMPGSM 
+ ἐπατοῦσαν/VBI-AAI3P τὸ/RA-ASN θυσιαστήριον/N2N-ASN κυρίου/N2-GSM ἀπὸ/P πάσης/A1S-GSF ἀκαθαρσίας/N1A-GSF καὶ/C ἐν/P ἀφέδρῳ/N2-DSF αἵματος/N3M-GSN ἐμίαναν/VAI-AAI3P τὰς/RA-APF θυσίας/N1A-GSF ὡς/C κρέα/N3-NPN βέβηλα/A1B-NPN 
+ οὐ/D παρέλιπον/VBI-AAI3P ἁμαρτίαν/N1A-ASF ἣν/RR-ASF οὐκ/D ἐποίησαν/VAI-AAI3P ὑπὲρ/P τὰ/RA-APN ἔθνη/N3E-APN 
+ διὰ/P τοῦτο/RD-ASN ἐκέρασεν/VEI-AAI3S αὐτοῖς/RD-DPM ὁ/RA-NSM θεὸς/N2-NSM πνεῦμα/N3M-ASN πλανήσεως/N3I-GSF ἐπότισεν/VAI-AAI3S αὐτοὺς/RD-APM ποτήριον/N2N-ASN οἴνου/N2-GSM ἀκράτου/A1B-GSM εἰς/P μέθην/N1-ASF 
+ ἤγαγεν/VBI-AAI3S τὸν/RA-ASM ἀπ'/P ἐσχάτου/A1-GSM τῆς/RA-GSF γῆς/N1-GSF τὸν/RA-ASM παίοντα/V1-PAPASN κραταιῶς/D ἔκρινεν/VAI-AAI3S τὸν/RA-ASM πόλεμον/N2-ASM ἐπὶ/P Ιερουσαλημ/N-DS καὶ/C τὴν/RA-ASF γῆν/N1-ASF αὐτῆς/RD-GSF 
+ ἀπήντησαν/VAI-AAI3P αὐτῷ/RD-DSM οἱ/RA-NPM ἄρχοντες/N τῆς/RA-GSF γῆς/N1-GSF μετὰ/P χαρᾶς/N1A-GSF εἶπαν/VAI-AAI3P αὐτῷ/RD-DSM ἐπευκτὴ/A1-NSF ἡ/RA-NSF ὁδός/N2-NSF σου/RP-GS δεῦτε/D εἰσέλθατε/VB-AAI2P μετ'/P εἰρήνης/N1-GSF 
+ ὡμάλισαν/VAI-AAI3P ὁδοὺς/N2-APF τραχείας/A3U-GSF ἀπὸ/P εἰσόδου/N2-GSF αὐτοῦ/RD-GSM ἤνοιξαν/VAI-AAI3P πύλας/N1-APF ἐπὶ/P Ιερουσαλημ/N-DS ἐστεφάνωσαν/VAI-AAI3P τείχη/N3E-APN αὐτῆς/RD-GSF 
+ εἰσῆλθεν/VBI-AAI3S ὡς/C πατὴρ/N3-NSM εἰς/P οἶκον/N2-ASM υἱῶν/N2-GPM αὐτοῦ/RD-GSM μετ'/P εἰρήνης/N1-GSF ἔστησεν/VAI-AAI3S τοὺς/RA-APM πόδας/N3D-APM αὐτοῦ/RD-GSM μετὰ/P ἀσφαλείας/N1A-GSF πολλῆς/A1-GSF 
+ κατελάβετο/VBI-AMI3S τὰς/RA-APF πυργοβάρεις/N3V-APF αὐτῆς/RD-GSF καὶ/C τὸ/RA-ASN τεῖχος/N3E-ASN Ιερουσαλημ/N-GS ὅτι/C ὁ/RA-NSM θεὸς/N2-NSM ἤγαγεν/VBI-AAI3S αὐτὸν/RD-ASM μετὰ/P ἀσφαλείας/N1A-GSF ἐν/P τῇ/RA-DSF πλανήσει/N3I-DSF αὐτῶν/RD-GPM 
+ ἀπώλεσεν/VAI-AAI3S ἄρχοντας/N αὐτῶν/RD-GPM καὶ/C πᾶν/A3-NSN σοφὸν/A1-ASM ἐν/P βουλῇ/N1-DSF ἐξέχεεν/V2I-IAI3S τὸ/RA-ASN αἷμα/N3M-ASN τῶν/RA-GPM οἰκούντων/V2-PAPGPM Ιερουσαλημ/N-GS ὡς/C ὕδωρ/N3-NSN ἀκαθαρσίας/N1A-APF 
+ ἀπήγαγεν/VBI-AAI3S τοὺς/RA-APM υἱοὺς/N2-APM καὶ/C τὰς/RA-APF θυγατέρας/N3-APF αὐτῶν/RD-GPM ἃ/RR-APN ἐγέννησαν/VAI-AAI3P ἐν/P βεβηλώσει/N3I-DSF 
+ ἐποίησαν/VAI-AAI3P κατὰ/P τὰς/RA-APF ἀκαθαρσίας/N1A-GSF αὐτῶν/RD-GPM καθὼς/D οἱ/RA-NPM πατέρες/N3-NPM αὐτῶν/RD-GPM ἐμίαναν/VAI-AAI3P Ιερουσαλημ/N-AS καὶ/C τὰ/RA-APN ἡγιασμένα/VT-XMPAPN τῷ/RA-DSN ὀνόματι/N3M-DSN τοῦ/RA-GSM θεοῦ/N2-GSM 
+ ἐδικαιώθη/VCI-API3S ὁ/RA-NSM θεὸς/N2-NSM ἐν/P τοῖς/RA-DPN κρίμασιν/N3M-DPN αὐτοῦ/RD-GSM ἐν/P τοῖς/RA-DPN ἔθνεσιν/N3E-DPN τῆς/RA-GSF γῆς/N1-GSF καὶ/C οἱ/RA-NPM ὅσιοι/A1A-NPM τοῦ/RA-GSM θεοῦ/N2-GSM ὡς/C ἀρνία/N2N-NPN ἐν/P ἀκακίᾳ/N1A-NSF ἐν/P μέσῳ/A1-DSM αὐτῶν/RD-GPM 
+ αἰνετὸς/A1-NSM κύριος/N2-NSM ὁ/RA-NSM κρίνων/N2N-GPN πᾶσαν/A1S-ASF τὴν/RA-ASF γῆν/N1-ASF ἐν/P δικαιοσύνῃ/N1-DSF αὐτοῦ/RD-GSM 
+ ἰδοὺ/V1-PMD2S δή/X ὁ/RA-NSM θεός/N2-NSM ἔδειξας/VAI-AAI2S ἡμῖν/RP-DP τὸ/RA-ASN κρίμα/N3M-ASN σου/RP-GS ἐν/P τῇ/RA-DSF δικαιοσύνῃ/N1-DSF σου/RP-GS εἴδοσαν/VBI-AAI3P οἱ/RA-NPM ὀφθαλμοὶ/N2-NPM ἡμῶν/RP-GP τὰ/RA-APN κρίματά/N3M-APN σου/RP-GS ὁ/RA-NSM θεός/N2-NSM 
+ ἐδικαιώσαμεν/VAI-AAI1S τὸ/RA-ASN ὄνομά/N3M-ASN σου/RP-GS τὸ/RA-ASN ἔντιμον/A1B-ASM εἰς/P αἰῶνας/N3W-APM ὅτι/C σὺ/RP-NS ὁ/RA-NSM θεὸς/N2-NSM τῆς/RA-GSF δικαιοσύνης/N1-GSF κρίνων/V1-PAPNSM τὸν/RA-ASM Ισραηλ/N-AS ἐν/P παιδείᾳ/N1A-DSF 
+ ἐπίστρεψον/VF-FAPASN ὁ/RA-NSM θεός/N2-NSM τὸ/RA-ASN ἔλεός/N3E-ASN σου/RP-GS ἐφ'/P ἡμᾶς/RP-AP καὶ/C οἰκτίρησον/VF-FAPASN ἡμᾶς/RP-AP 
+ συνάγαγε/VB-AAD2S τὴν/RA-ASF διασπορὰν/N1A-ASF Ισραηλ/N-AS μετὰ/P ἐλέους/N3E-GSN καὶ/C χρηστότητος/N3T-GSF ὅτι/C ἡ/RA-NSF πίστις/N3I-NSF σου/RP-GS μεθ'/P ἡμῶν/RP-GP 
+ καὶ/C ἡμεῖς/RP-NP ἐσκληρύναμεν/VAI-AAI1P τὸν/RA-ASM τράχηλον/N2-ASM ἡμῶν/RP-GP καὶ/C σὺ/RP-NS παιδευτὴς/N1M-NSM ἡμῶν/RP-GP εἶ/V9-PAI2S 
+ μὴ/D ὑπερίδῃς/VB-AAS2S ἡμᾶς/RP-AP ὁ/RA-NSM θεὸς/N2-NSM ἡμῶν/RP-GP ἵνα/C μὴ/D καταπίωσιν/VB-AAS3P ἡμᾶς/RP-AP ἔθνη/N3E-APN ὡς/C μὴ/D ὄντος/V9-PAPGSM λυτρουμένου/V4-PMPGSM 
+ καὶ/C σὺ/RP-NS ὁ/RA-NSM θεὸς/N2-NSM ἡμῶν/RP-GP ἀπ'/P ἀρχῆς/N1-GSF καὶ/C ἐπὶ/P σὲ/RP-AS ἡ/RA-NSF ἐλπὶς/N3D-NSF ἡμῶν/RP-GP κύριε/N2-VSM 
+ καὶ/C ἡμεῖς/RP-NP οὐκ/D ἀφεξόμεθά/VF-FMI1P σου/RP-GS ὅτι/C χρηστὰ/A1-APN τὰ/RA-APN κρίματά/N3M-APN σου/RP-GS ἐφ'/P ἡμᾶς/RP-AP 
+ ἡμῖν/RP-DP καὶ/C τοῖς/RA-DPN τέκνοις/N2N-DPN ἡμῶν/RP-GP ἡ/RA-NSF εὐδοκία/N1A-NSF εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM κύριε/N2-VSM σωτὴρ/N3-NSM ἡμῶν/RP-GP οὐ/D σαλευθησόμεθα/VC-FPI1P ἔτι/D τὸν/RA-ASM αἰῶνα/N3W-ASM χρόνον/N2-ASM 
+ αἰνετὸς/A1-NSM κύριος/N2-NSM ἐν/P τοῖς/RA-DPN κρίμασιν/N3M-DPN αὐτοῦ/RD-GSM ἐν/P στόματι/N3M-DSN ὁσίων/A1A-GPM καὶ/C εὐλογημένος/VM-XMPNSM Ισραηλ/N-GS ὑπὸ/P κυρίου/N2-GSM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM 
+ τῷ/RA-DSM Σαλωμων/N-DSM εἰς/P ἔλεγχον/N2-ASM 
+ ἐν/P τῷ/RA-DSN ἀπαχθῆναι/VQ-APN Ισραηλ/N-AS ἐν/P ἀποικεσίᾳ/N1A-DSF εἰς/P γῆν/N1-ASF ἀλλοτρίαν/A1A-ASF ἐν/P τῷ/RA-DSN ἀποστῆναι/VH-AAN αὐτοὺς/RD-APM ἀπὸ/P κυρίου/N2-GSM τοῦ/RA-GSM λυτρωσαμένου/VA-AMPGSM αὐτοὺς/RD-APM ἀπερρίφησαν/VVI-API3P ἀπὸ/P κληρονομίας/N1A-GSF ἧς/RR-GSF ἔδωκεν/VAI-AAI3S αὐτοῖς/RD-DPM κύριος/N2-NSM 
+ ἐν/P παντὶ/A3-DSN ἔθνει/N3E-DSN ἡ/RA-NSF διασπορὰ/N1A-NSF τοῦ/RA-GSM Ισραηλ/N-GS κατὰ/P τὸ/RA-ASN ῤῆμα/N3M-ASN τοῦ/RA-GSM θεοῦ/N2-GSM ἵνα/C δικαιωθῇς/VC-APS2S ὁ/RA-NSM θεός/N2-NSM ἐν/P τῇ/RA-DSF δικαιοσύνῃ/N1-DSF σου/RP-GS ἐν/P ταῖς/RA-DPF ἀνομίαις/N1A-DPF ἡμῶν/RP-GP ὅτι/C σὺ/RP-NS κριτὴς/N1M-NSM δίκαιος/A1A-NSM ἐπὶ/P πάντας/A3-APM τοὺς/RA-APM λαοὺς/N2-APM τῆς/RA-GSF γῆς/N1-GSF 
+ οὐ/D γὰρ/X κρυβήσεται/VD-FPI3S ἀπὸ/P τῆς/RA-GSF γνώσεώς/N3I-GSF σου/RP-GS πᾶς/A3-NSM ποιῶν/V2-PAPNSM ἄδικα/A1B-APN καὶ/C αἱ/RA-NPF δικαιοσύναι/N1-NPF τῶν/RA-GPM ὁσίων/A1A-GPM σου/RP-GS ἐνώπιόν/P σου/RP-GS κύριε/N2-VSM καὶ/C ποῦ/D κρυβήσεται/VD-FPI3S ἄνθρωπος/N2-NSM ἀπὸ/P τῆς/RA-GSF γνώσεώς/N3I-GSF σου/RP-GS ὁ/RA-NSM θεός/N2-NSM 
+ τὰ/RA-APN ἔργα/N2N-APN ἡμῶν/RP-GP ἐν/P ἐκλογῇ/N1-DSF καὶ/C ἐξουσίᾳ/N1A-DSF τῆς/RA-GSF ψυχῆς/N1-GSF ἡμῶν/RP-GP τοῦ/RA-GSN ποιῆσαι/VA-AAN δικαιοσύνην/N1-ASF καὶ/C ἀδικίαν/N1A-ASF ἐν/P ἔργοις/N2N-DPN χειρῶν/N3-GPF ἡμῶν/RP-GP καὶ/C ἐν/P τῇ/RA-DSF δικαιοσύνῃ/N1-DSF σου/RP-GS ἐπισκέπτῃ/V1-PMS2S υἱοὺς/N2-APM ἀνθρώπων/N2-GPM 
+ ὁ/RA-NSM ποιῶν/V2-PAPNSM δικαιοσύνην/N1-ASF θησαυρίζει/V1-PAI3S ζωὴν/N1-ASF αὑτῷ/RD-DSM παρὰ/P κυρίῳ/N2-DSM καὶ/C ὁ/RA-NSM ποιῶν/V2-PAPNSM ἀδικίαν/N1A-ASF αὐτὸς/RD-NSM αἴτιος/A1A-NSM τῆς/RA-GSF ψυχῆς/N1-GSF ἐν/P ἀπωλείᾳ/N1A-DSF τὰ/RA-APN γὰρ/X κρίματα/N3M-APN κυρίου/N2-GSM ἐν/P δικαιοσύνῃ/N1-DSF κατ'/P ἄνδρα/N3-ASM καὶ/C οἶκον/N2-ASM 
+ τίνι/RI-DSM χρηστεύσῃ/VA-AAS3S ὁ/RA-NSM θεός/N2-NSM εἰ/C μὴ/D τοῖς/RA-DPM ἐπικαλουμένοις/V2-PMPDPM τὸν/RA-ASM κύριον/N2-ASM καθαριεῖς/VF2-FAI2S ἐν/P ἁμαρτίαις/N1A-DPF ψυχὴν/N1-ASF ἐν/P ἐξομολογήσει/VF-FAI3S ἐν/P ἐξαγορίαις/N1A-DPF ὅτι/C αἰσχύνη/N1-NSF ἡμῖν/RP-DP καὶ/C τοῖς/RA-DPN προσώποις/N2N-DPN ἡμῶν/RP-GP περὶ/P ἁπάντων/A3-GPM 
+ καὶ/C τίνι/RI-DSN ἀφήσεις/VF-FAI2S ἁμαρτίας/N1A-GSF εἰ/C μὴ/D τοῖς/RA-DPM ἡμαρτηκόσιν/VX-XAPDPM δικαίους/A1A-APM εὐλογήσεις/VF-FAI2S καὶ/C οὐκ/D εὐθυνεῖς/VF2-FAI2S περὶ/P ὧν/RR-GPM ἡμάρτοσαν/VBI-AAI3P καὶ/C ἡ/RA-NSF χρηστότης/N3T-NSF σου/RP-GS ἐπὶ/P ἁμαρτάνοντας/V1-PAPAPM ἐν/P μεταμελείᾳ/N1A-DSF 
+ καὶ/C νῦν/D σὺ/RP-NS ὁ/RA-NSM θεός/N2-NSM καὶ/C ἡμεῖς/RP-NP λαός/N2-NSM ὃν/RR-ASM ἠγάπησας/VAI-AAI2S ἰδὲ/VB-AAD2S καὶ/C οἰκτίρησον/VF-FAPASN ὁ/RA-NSM θεὸς/N2-NSM Ισραηλ/N-GS ὅτι/C σοί/RP-DS ἐσμεν/V9-PAI1P καὶ/C μὴ/D ἀποστήσῃς/VA-AAS2S ἔλεός/N3E-ASN σου/RP-GS ἀφ'/P ἡμῶν/RP-GP ἵνα/C μὴ/D ἐπιθῶνται/V2-PMS3P ἡμῖν/RP-DP 
+ ὅτι/C σὺ/RP-NS ᾑρετίσω/VSI-AAS1S τὸ/RA-ASN σπέρμα/N3M-ASN Αβρααμ/N-GSM παρὰ/P πάντα/A3-ASM τὰ/RA-APN ἔθνη/N3E-APN καὶ/C ἔθου/VEI-AMI2S τὸ/RA-ASN ὄνομά/N3M-ASN σου/RP-GS ἐφ'/P ἡμᾶς/RP-AP κύριε/N2-VSM καὶ/C οὐκ/D ἀπώσῃ/VA-AAS3S εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM 
+ ἐν/P διαθήκῃ/N1-DSF διέθου/VEI-AMI2S τοῖς/RA-DPM πατράσιν/N3H-DPM ἡμῶν/RP-GP περὶ/P ἡμῶν/RP-GP καὶ/C ἡμεῖς/RP-NP ἐλπιοῦμεν/VF2-FAI1S ἐπὶ/P σὲ/RP-AS ἐν/P ἐπιστροφῇ/N1-DSF ψυχῆς/N1-GSF ἡμῶν/RP-GP 
+ τοῦ/RA-GSM κυρίου/N2-GSM ἡ/RA-NSF ἐλεημοσύνη/N1-NSF ἐπὶ/P οἶκον/N2-ASM Ισραηλ/N-GS εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM καὶ/C ἔτι/D 
+ ἐν/P ὕμνοις/N2-DPM τῷ/RA-DSM Σαλωμων/N-DSM 
+ μακάριος/N-NSM ἀνήρ/N3-NSM οὗ/RR-GSM ὁ/RA-NSM κύριος/N2-NSM ἐμνήσθη/VSI-API3S ἐν/P ἐλεγμῷ/N2-DSM καὶ/C ἐκυκλώθη/VCI-API3S ἀπὸ/P ὁδοῦ/N2-GSF πονηρᾶς/A1A-GSF ἐν/P μάστιγι/N3G-DSF καθαρισθῆναι/VS-APN ἀπὸ/P ἁμαρτίας/N1A-GSF τοῦ/RA-GSM μὴ/D πληθῦναι/VA-AAN 
+ ὁ/RA-NSM ἑτοιμάζων/V1-PAPNSM νῶτον/N2N-ASN εἰς/P μάστιγας/N3G-APF καθαρισθήσεται/VS-FPI3S χρηστὸς/A1-NSM γὰρ/X ὁ/RA-NSM κύριος/N2-NSM τοῖς/RA-DPM ὑπομένουσιν/V1-PAI3P παιδείαν/N1A-ASF 
+ ὀρθώσει/V4-PAI3S γὰρ/X ὁδοὺς/N2-APF δικαίων/A1A-GPM καὶ/C οὐ/D διαστρέψει/VF-FAI3S ἐν/P παιδείᾳ/N1A-DSF καὶ/C τὸ/RA-ASN ἔλεος/N3E-ASN κυρίου/N2-GSM ἐπὶ/P τοὺς/RA-APM ἀγαπῶντας/V3-PAPAPM αὐτὸν/RD-ASM ἐν/P ἀληθείᾳ/N1A-DSF 
+ καὶ/C μνησθήσεται/VS-FPI3S κύριος/N2-NSM τῶν/RA-GPM δούλων/N2-GPM αὐτοῦ/RD-GSM ἐν/P ἐλέει/N3E-DSN ἡ/RA-NSF γὰρ/X μαρτυρία/N1A-NSF ἐν/P νόμῳ/N2-DSM διαθήκης/N1-GSF αἰωνίου/A1B-GSM ἡ/RA-NSF μαρτυρία/N1A-NSF κυρίου/N2-GSM ἐπὶ/P ὁδοὺς/N2-APF ἀνθρώπων/N2-GPM ἐν/P ἐπισκοπῇ/N1-DSF 
+ δίκαιος/A1A-NSM καὶ/C ὅσιος/A1A-NSM ὁ/RA-NSM κύριος/N2-NSM ἡμῶν/RP-GP ἐν/P κρίμασιν/N3M-DPN αὐτοῦ/RD-GSM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM καὶ/C Ισραηλ/N-AS αἰνέσει/VF-FAI3S τῷ/RA-DSN ὀνόματι/N3M-DSN κυρίου/N2-GSM ἐν/P εὐφροσύνῃ/N1-DSF 
+ καὶ/C ὅσιοι/A1A-NPM ἐξομολογήσονται/VF-FMI3P ἐν/P ἐκκλησίᾳ/N1A-DSF λαοῦ/N2-GSM καὶ/C πτωχοὺς/N2-APM ἐλεήσει/VF-FAI3S ὁ/RA-NSM θεὸς/N2-NSM ἐν/P εὐφροσύνῃ/N1-DSF Ισραηλ/N-DS 
+ ὅτι/C χρηστὸς/A1-NSM καὶ/C ἐλεήμων/A3N-NSM ὁ/RA-NSM θεὸς/N2-NSM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM καὶ/C συναγωγαὶ/N1-NPF Ισραηλ/N-NS δοξάσουσιν/VF-FAI3P τὸ/RA-ASN ὄνομα/N3M-ASN κυρίου/N2-GSM 
+ τοῦ/RA-GSM κυρίου/N2-GSM ἡ/RA-NSF σωτηρία/N1A-NSF ἐπὶ/P οἶκον/N2-ASM Ισραηλ/N-DS εἰς/P εὐφροσύνην/N1-ASF αἰώνιον/A1B-ASM 
+ τῷ/RA-DSM Σαλωμων/N-DSM εἰς/P προσδοκίαν/N1A-ASF 
+ σαλπίσατε/VA-AAD2P ἐν/P Σιων/N-DSF ἐν/P σάλπιγγι/N3G-DS σημασίας/N1A-GS ἁγίων/A1A-GPM κηρύξατε/VA-AAD2P ἐν/P Ιερουσαλημ/N-DS φωνὴν/N1-ASF εὐαγγελιζομένου/V1-PMPGSM ὅτι/C ἠλέησεν/VAI-AAI3S ὁ/RA-NSM θεὸς/N2-NSM Ισραηλ/N-GS ἐν/P τῇ/RA-DSF ἐπισκοπῇ/N1-DSF αὐτῶν/RD-GPM 
+ στῆθι/VH-AAD2S Ιερουσαλημ/N-VS ἐφ'/P ὑψηλοῦ/A1-GSM καὶ/C ἰδὲ/VB-AAD2S τὰ/RA-APN τέκνα/N2N-APN σου/RP-GS ἀπὸ/P ἀνατολῶν/N1-GPF καὶ/C δυσμῶν/N1-GPF συνηγμένα/VK-XMPAPN εἰς/P ἅπαξ/D ὑπὸ/P κυρίου/N2-GSM 
+ ἀπὸ/P βορρᾶ/N1T-GSM ἔρχονται/V1-PMI3P τῇ/RA-DSF εὐφροσύνῃ/N1-DSF τοῦ/RA-GSM θεοῦ/N2-GSM αὐτῶν/RD-GPM ἐκ/P νήσων/N2-GPF μακρόθεν/D συνήγαγεν/VBI-AAI3S αὐτοὺς/RD-APM ὁ/RA-NSM θεός/N2-NSM 
+ ὄρη/N3E-APN ὑψηλὰ/A1-APN ἐταπείνωσεν/VAI-AAI3S εἰς/P ὁμαλισμὸν/N2-ASM αὐτοῖς/RD-DPM οἱ/RA-NPM βουνοὶ/N2-NPM ἐφύγοσαν/VBI-AAI3P ἀπὸ/P εἰσόδου/N2-GSF αὐτῶν/RD-GPM 
+ οἱ/RA-NPM δρυμοὶ/N2-NPM ἐσκίασαν/VSI-AAI3P αὐτοῖς/RD-DPM ἐν/P τῇ/RA-DSF παρόδῳ/N2-DSM αὐτῶν/RD-GPM πᾶν/A3-ASN ξύλον/N2N-ASN εὐωδίας/N1A-GSF ἀνέτειλεν/VAI-AAI3S αὐτοῖς/RD-DPM ὁ/RA-NSM θεός/N2-NSM 
+ ἵνα/C παρέλθῃ/VB-AAS3S Ισραηλ/N-GS ἐν/P ἐπισκοπῇ/N1-DSF δόξης/N1S-GSF θεοῦ/N2-GSM αὐτῶν/RD-GPM 
+ ἔνδυσαι/VA-AAN Ιερουσαλημ/N-VS τὰ/RA-APN ἱμάτια/N2N-APN τῆς/RA-GSF δόξης/N1S-GSF σου/RP-GS ἑτοίμασον/VF-FAPASN τὴν/RA-ASF στολὴν/N1-ASF τοῦ/RA-GSN ἁγιάσματός/N3M-GSN σου/RP-GS ὅτι/C ὁ/RA-NSM θεὸς/N2-NSM ἐλάλησεν/VAI-AAI3S ἀγαθὰ/A1-APN Ισραηλ/N-AS εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM καὶ/C ἔτι/D 
+ ποιήσαι/VA-AAN κύριος/N2-NSM ἃ/RR-APN ἐλάλησεν/VAI-AAI3S ἐπὶ/P Ισραηλ/N-DS καὶ/C Ιερουσαλημ/N-DS ἀναστήσαι/VA-AAN κύριος/N2-NSM τὸν/RA-ASM Ισραηλ/N-AS ἐν/P ὀνόματι/N3M-DSN δόξης/N1S-GSF αὐτοῦ/RD-GSM 
+ τοῦ/RA-GSM κυρίου/N2-GSM τὸ/RA-ASN ἔλεος/N3E-ASN ἐπὶ/P τὸν/RA-ASM Ισραηλ/N-AS εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM καὶ/C ἔτι/D 
+ τῷ/RA-DSM Σαλωμων/N-DSM ἐν/P γλώσσῃ/N1S-DSF παρανόμων/A1B-GPM 
+ κύριε/N2-VSM ῤῦσαι/VQ-PMI2P τὴν/RA-ASF ψυχήν/N1-ASF μου/RP-GS ἀπὸ/P ἀνδρὸς/N3-GSM παρανόμου/A1B-GSM καὶ/C πονηροῦ/A1A-GSM ἀπὸ/P γλώσσης/N1S-GSF παρανόμου/A1B-GSM καὶ/C ψιθύρου/A1B-GSM καὶ/C λαλούσης/V2-PAPGSF ψευδῆ/A3H-APN καὶ/C δόλια/A1A-APN 
+ ἐν/P ποικιλίᾳ/N1A-DSF στροφῆς/V1-PAS2S οἱ/RA-NPM λόγοι/N2-NPM τῆς/RA-GSF γλώσσης/N1S-GSF ἀνδρὸς/N3-GSM πονηροῦ/A1A-GSM ὥσπερ/D ἐν/P λαῷ/N2-DSM πῦρ/N3-ASN ἀνάπτον/V1-PAPASN καλλονὴν/N1-ASF αὐτοῦ/RD-GSM 
+ ἡ/RA-NSF παροικία/N1A-NSF αὐτοῦ/RD-GSM ἐμπρῆσαι/VA-AAN οἴκους/N2-APM ἐν/P γλώσσῃ/N1S-DSF ψευδεῖ/A3H-DSM ἐκκόψαι/VA-AAN δένδρα/N2N-APN εὐφροσύνης/N1-GSF φλογιζούσης/V1-PAPGSF παρανόμους/A1B-APM συγχέαι/VA-AAN οἴκους/N2-APM ἐν/P πολέμῳ/N2-DSM χείλεσιν/N3E-DPN ψιθύροις/A1B-DPN 
+ μακρύναι/VB-AAN ὁ/RA-NSM θεὸς/N2-NSM ἀπὸ/P ἀκάκων/A1B-GPN χείλη/N3E-APN παρανόμων/A1B-GPM ἐν/P ἀπορίᾳ/N1A-DSF καὶ/C σκορπισθείησαν/VC-APO3P ὀστᾶ/N2N-APN ψιθύρων/A1B-GPN ἀπὸ/P φοβουμένων/V2-PMPGPM κύριον/N2-ASM ἐν/P πυρὶ/N3-DSN φλογὸς/N3G-GSF γλῶσσα/N1S-NSF ψίθυρος/A1B-NSF ἀπόλοιτο/VB-AMO3S ἀπὸ/P ὁσίων/A1A-GPM 
+ φυλάξαι/VA-AAN κύριος/N2-NSM ψυχὴν/N1-ASF ἡσύχιον/A1B-ASM μισοῦσαν/V2-PAPASF ἀδίκους/A1B-APM καὶ/C κατευθύναι/VA-AAN κύριος/N2-NSM ἄνδρα/N3-ASM ποιοῦντα/V2-PAPASM εἰρήνην/N1-ASF ἐν/P οἴκῳ/N2-DSM 
+ τοῦ/RA-GSM κυρίου/N2-GSM ἡ/RA-NSF σωτηρία/N1A-NSF ἐπὶ/P Ισραηλ/N-GS παῖδα/N3D-ASM αὐτοῦ/RD-GSM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM καὶ/C ἀπόλοιντο/VB-AMO3P οἱ/RA-NPM ἁμαρτωλοὶ/A1B-NPM ἀπὸ/P προσώπου/N2N-GSN κυρίου/N2-GSM ἅπαξ/D καὶ/C ὅσιοι/A1A-NPM κυρίου/N2-GSM κληρονομήσαισαν/VA-AAO3P ἐπαγγελίας/N1A-APF κυρίου/N2-GSM 
+ τῷ/RA-DSM Σαλωμων/N-DSM ψαλμός/N2-NSM παράκλησις/N3I-NSF τῶν/RA-GPM δικαίων/N2-GPM 
+ δεξιὰ/A1A-NSF κυρίου/N2-GSM ἐσκέπασέν/VAI-AAI3S με/RP-AS δεξιὰ/A1A-NSF κυρίου/N2-GSM ἐφείσατο/VAI-AMI3S ἡμῶν/RP-GP 
+ ὁ/RA-NSM βραχίων/N3N-NSM κυρίου/N2-GSM ἔσωσεν/VAI-AAI3S ἡμᾶς/RP-AP ἀπὸ/P ῤομφαίας/N1A-GSF διαπορευομένης/V1-PMPGSF ἀπὸ/P λιμοῦ/N2-GSM καὶ/C θανάτου/N2-GSM ἁμαρτωλῶν/A1B-APN 
+ θηρία/N2N-APN ἐπεδράμοσαν/VBI-AAI3P αὐτοῖς/RD-DPM πονηρά/A1A-APN ἐν/P τοῖς/RA-DPM ὀδοῦσιν/N3-DPM αὐτῶν/RD-GPM ἐτίλλοσαν/VAI-AAI3P σάρκας/N3K-APF αὐτῶν/RD-GPM καὶ/C ἐν/P ταῖς/RA-DPF μύλαις/N1-DPF ἔθλων/VB-IAI3P ὀστᾶ/N2N-APN αὐτῶν/RD-GPM 
+ καὶ/C ἐκ/P τούτων/RD-GPM ἁπάντων/A3-GPM ἐρρύσατο/VAI-AMI3S ἡμᾶς/RP-AP κύριος/N2-NSM 
+ ἐταράχθη/VCI-API3S ὁ/RA-NSM εὐσεβὴς/A3H-NSM διὰ/P τὰ/RA-APN παραπτώματα/N3M-APN αὐτοῦ/RD-GSM μήποτε/D συμπαραληφθῇ/VV-APS3S μετὰ/P τῶν/RA-GPM ἁμαρτωλῶν/A1B-GPM 
+ ὅτι/C δεινὴ/A1-NSF ἡ/RA-NSF καταστροφὴ/N1-NSF τοῦ/RA-GSM ἁμαρτωλοῦ/A1B-GSM καὶ/C οὐχ/D ἅψεται/VF-FMI3S δικαίου/A1A-GSM οὐδὲν/A3-ASN ἐκ/P πάντων/A3-GPM τούτων/RD-GPM 
+ ὅτι/C οὐχ/D ὁμοία/A1A-APN ἡ/RA-NSF παιδεία/N1A-NSF τῶν/RA-GPM δικαίων/A1A-GPM ἐν/P ἀγνοίᾳ/N1A-DSF καὶ/C ἡ/RA-NSF καταστροφὴ/N1-NSF τῶν/RA-GPM ἁμαρτωλῶν/A1B-GPM 
+ ἐν/P περιστολῇ/N1-DSF παιδεύεται/V1-PMI3S δίκαιος/A1A-NSM ἵνα/C μὴ/D ἐπιχαρῇ/VD-APS3S ὁ/RA-NSM ἁμαρτωλὸς/A1B-NSM τῷ/RA-DSM δικαίῳ/A1A-DSM 
+ ὅτι/C νουθετήσει/VF-FAI3S δίκαιον/A1A-ASM ὡς/C υἱὸν/N2-ASM ἀγαπήσεως/N3I-GSF καὶ/C ἡ/RA-NSF παιδεία/N1A-NSF αὐτοῦ/RD-GSM ὡς/C πρωτοτόκου/A1B-GSM 
+ ὅτι/C φείσεται/VF-FMI3S κύριος/N2-NSM τῶν/RA-GPM ὁσίων/A1A-GPM αὐτοῦ/RD-GSM καὶ/C τὰ/RA-APN παραπτώματα/N3M-APN αὐτῶν/RD-GPM ἐξαλείψει/VF-FAI3S ἐν/P παιδείᾳ/N1A-DSF 
+ ἡ/RA-NSF γὰρ/X ζωὴ/N1-NSF τῶν/RA-GPM δικαίων/A1A-GPM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM ἁμαρτωλοὶ/A1B-NPM δὲ/X ἀρθήσονται/VC-FPI3P εἰς/P ἀπώλειαν/N1A-ASF καὶ/C οὐχ/D εὑρεθήσεται/VC-FPI3S μνημόσυνον/N2N-ASN αὐτῶν/RD-GPM ἔτι/D 
+ ἐπὶ/P δὲ/X τοὺς/RA-APM ὁσίους/A1A-APM τὸ/RA-ASN ἔλεος/N3E-ASN κυρίου/N2-GSM καὶ/C ἐπὶ/P τοὺς/RA-APM φοβουμένους/V2-PMPAPM αὐτὸν/RD-ASM τὸ/RA-ASN ἔλεος/N3E-ASN αὐτοῦ/RD-GSM 
+ ὕμνος/N2-NSM τῷ/RA-DSM Σαλωμων/N-DSM 
+ πιστὸς/N2-NSM κύριος/N2-NSM τοῖς/RA-DPM ἀγαπῶσιν/V3-PAI3P αὐτὸν/RD-ASM ἐν/P ἀληθείᾳ/N1A-DSF τοῖς/RA-DPM ὑπομένουσιν/V1-PAI3P παιδείαν/N1A-ASF αὐτοῦ/RD-GSM 
+ τοῖς/RA-DPM πορευομένοις/V1-PMPDPM ἐν/P δικαιοσύνῃ/N1-DSF προσταγμάτων/N3M-GPN αὐτοῦ/RD-GSM ἐν/P νόμῳ/N2-DSM ᾧ/RR-DSM ἐνετείλατο/VAI-AMI3S ἡμῖν/RP-DP εἰς/P ζωὴν/N1-ASF ἡμῶν/RP-GP 
+ ὅσιοι/A1A-NPM κυρίου/N2-GSM ζήσονται/VF-FMI3P ἐν/P αὐτῷ/RD-DSM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM ὁ/RA-NSM παράδεισος/N2-NSM τοῦ/RA-GSM κυρίου/N2-GSM τὰ/RA-APN ξύλα/N2N-APN τῆς/RA-GSF ζωῆς/N1-GSF ὅσιοι/A1A-NPM αὐτοῦ/RD-GSM 
+ ἡ/RA-NSF φυτεία/N1A-NSF αὐτῶν/RD-GPM ἐρριζωμένη/VMI-XAPNSF εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM οὐκ/D ἐκτιλήσονται/VF-FMI3P πάσας/A1S-APF τὰς/RA-APF ἡμέρας/N1A-GSF τοῦ/RA-GSM οὐρανοῦ/N2-GSM 
+ ὅτι/C ἡ/RA-NSF μερὶς/N3D-NSF καὶ/C κληρονομία/N1A-NSF τοῦ/RA-GSM θεοῦ/N2-GSM ἐστιν/V9-PAI3S Ισραηλ/N-GS 
+ καὶ/C οὐχ/D οὕτως/D οἱ/RA-NPM ἁμαρτωλοὶ/A1B-NPM καὶ/C παράνομοι/A1B-NPM οἳ/RR-NPM ἠγάπησαν/VAI-AAI3P ἡμέραν/N1A-ASF ἐν/P μετοχῇ/N1-DSF ἁμαρτίας/N1A-GSF αὐτῶν/RD-GPM 
+ ἐν/P μικρότητι/N3T-DSF σαπρίας/N1A-APF ἡ/RA-NSF ἐπιθυμία/N1A-NSF αὐτῶν/RD-GPM καὶ/C οὐκ/D ἐμνήσθησαν/VSI-API3P τοῦ/RA-GSM θεοῦ/N2-GSM 
+ ὅτι/C ὁδοὶ/N2-NPF ἀνθρώπων/N2-GPM γνωσταὶ/A1-NPF ἐνώπιον/P αὐτοῦ/RD-GSM διὰ/P παντός/A3-GSM καὶ/C ταμίεια/N2N-APN καρδίας/N1A-GSF ἐπίσταται/N1-NPM πρὸ/P τοῦ/RA-GSN γενέσθαι/VB-AMN 
+ διὰ/P τοῦτο/RD-ASN ἡ/RA-NSF κληρονομία/N1A-NSF αὐτῶν/RD-GPM ᾅδης/N1M-NSM καὶ/C σκότος/N3E-AS καὶ/C ἀπώλεια/N1A-NSF καὶ/C οὐχ/D εὑρεθήσονται/VC-FPI3P ἐν/P ἡμέρᾳ/N1A-DSF ἐλέους/N3E-GSN δικαίων/A1A-GPM 
+ οἱ/RA-NPM δὲ/X ὅσιοι/A1A-NPM κυρίου/N2-GSM κληρονομήσουσιν/VF-FAI3P ζωὴν/N1-ASF ἐν/P εὐφροσύνῃ/N1-DSF 
+ ψαλμὸς/N2-NSM τῷ/RA-DSM Σαλωμων/N-DSM μετὰ/P ᾠδῆς/N1-GSF 
+ ἐν/P τῷ/RA-DSN θλίβεσθαί/V1-PMN με/RP-AS ἐπεκαλεσάμην/VAI-AMI1S τὸ/RA-ASN ὄνομα/N3M-ASN κυρίου/N2-GSM εἰς/P βοήθειαν/N1A-ASF ἤλπισα/VAI-AAI1S τοῦ/RA-GSM θεοῦ/N2-GSM Ιακωβ/N-GSM καὶ/C ἐσώθην/VCI-API1S ὅτι/C ἐλπὶς/N3D-NSF καὶ/C καταφυγὴ/N1-NSF τῶν/RA-GPM πτωχῶν/N2-GPM σύ/RP-NS ὁ/RA-NSM θεός/N2-NSM 
+ τίς/RI-NSM γὰρ/X ἰσχύει/V1-PAI3S ὁ/RA-NSM θεός/N2-NSM εἰ/C μὴ/D ἐξομολογήσασθαί/VA-AMN σοι/RP-DS ἐν/P ἀληθείᾳ/N1A-DSF καὶ/C τί/RI-ASN δυνατὸς/A1-NSM ἄνθρωπος/N2-NSM εἰ/C μὴ/D ἐξομολογήσασθαι/VA-AMN τῷ/RA-DSN ὀνόματί/N3M-DSN σου/RP-GS 
+ ψαλμὸν/N2-ASF καινὸν/A1-ASM μετὰ/P ᾠδῆς/N1-GSF ἐν/P εὐφροσύνῃ/N1-DSF καρδίας/N1A-GSF καρπὸν/N2-ASM χειλέων/N3E-GPN ἐν/P ὀργάνῳ/N2N-DSN ἡρμοσμένῳ/VM-XMPDSN γλώσσης/N1S-GSF ἀπαρχὴν/N1-ASF χειλέων/N3E-GPN ἀπὸ/P καρδίας/N1A-GSF ὁσίας/A1A-GSF καὶ/C δικαίας/A1A-GSF 
+ ὁ/RA-NSM ποιῶν/V2-PAPNSM ταῦτα/RD-APN οὐ/D σαλευθήσεται/VC-FPI3S εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM ἀπὸ/P κακοῦ/A1-GSM φλὸξ/N3G-NSF πυρὸς/N2-NSM καὶ/C ὀργὴ/N1-NSF ἀδίκων/A1B-GPM οὐχ/D ἅψεται/VF-FMI3S αὐτοῦ/RD-GSM 
+ ὅταν/D ἐξέλθῃ/VB-AAS3S ἐπὶ/P ἁμαρτωλοὺς/A1B-APM ἀπὸ/P προσώπου/N2N-GSN κυρίου/N2-GSM ὀλεθρεῦσαι/VA-AAN πᾶσαν/A1S-ASF ὑπόστασιν/N3I-ASF ἁμαρτωλῶν/A1B-GPM 
+ ὅτι/C τὸ/RA-ASN σημεῖον/N2-ASN τοῦ/RA-GSM θεοῦ/N2-GSM ἐπὶ/P δικαίους/A1A-APM εἰς/P σωτηρίαν/N1A-ASF 
+ λιμὸς/N2-NSM καὶ/C ῤομφαία/N1A-NSF καὶ/C θάνατος/N2-NSM ἀπὸ/P δικαίων/A1A-GPM μακράν/D φεύξονται/VF-FMI3P γὰρ/X ὡς/C διωκόμενοι/V1-PMPNPM πολέμου/N2-GSM ἀπὸ/P ὁσίων/A1A-GPM 
+ καταδιώξονται/VF-FMI3P δὲ/X ἁμαρτωλοὺς/A1B-APM καὶ/C καταλήμψονται/VF-FMI3P καὶ/C οὐκ/D ἐκφεύξονται/VF-FMI3P οἱ/RA-NPM ποιοῦντες/V2-PAPNPM ἀνομίαν/N1A-ASF τὸ/RA-ASN κρίμα/N3M-ASN κυρίου/N2-GSM 
+ ὡς/C ὑπὸ/P πολεμίων/A1A-GPM ἐμπείρων/A1B-GPM καταλημφθήσονται/VV-FPI3P τὸ/RA-ASN γὰρ/X σημεῖον/N2-ASN τῆς/RA-GSF ἀπωλείας/N1A-GSF ἐπὶ/P τοῦ/RA-GSN μετώπου/N2N-GSN αὐτῶν/RD-GPM 
+ καὶ/C ἡ/RA-NSF κληρονομία/N1A-NSF τῶν/RA-GPM ἁμαρτωλῶν/A1B-GPM ἀπώλεια/N1A-NSF καὶ/C σκότος/N3E-AS καὶ/C αἱ/RA-NPF ἀνομίαι/N1A-NPF αὐτῶν/RD-GPM διώξονται/VF-FMI3P αὐτοὺς/RD-APM ἕως/P ᾅδου/N1M-GSM κάτω/D 
+ ἡ/RA-NSF κληρονομία/N1A-NSF αὐτῶν/RD-GPM οὐχ/D εὑρεθήσεται/VC-FPI3S τοῖς/RA-DPN τέκνοις/N2N-DPN αὐτῶν/RD-GPM αἱ/RA-NPF γὰρ/X ἁμαρτίαι/N1A-NPF ἐξερημώσουσιν/VF-FAI3P οἴκους/N2-APM ἁμαρτωλῶν/A1B-GPM 
+ καὶ/C ἀπολοῦνται/VF2-FMI3P ἁμαρτωλοὶ/A1B-NPM ἐν/P ἡμέρᾳ/N1A-DSF κρίσεως/N3I-GSF κυρίου/N2-GSM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM ὅταν/D ἐπισκέπτηται/V1-PMS3S ὁ/RA-NSM θεὸς/N2-NSM τὴν/RA-ASF γῆν/N1-ASF ἐν/P κρίματι/N3M-DSN αὐτοῦ/RD-GSM 
+ οἱ/RA-NPM δὲ/X φοβούμενοι/V2-PMPNPM τὸν/RA-ASM κύριον/N2-ASM ἐλεηθήσονται/VC-FPI3P ἐν/P αὐτῇ/RD-DSF καὶ/C ζήσονται/VF-FMI3P ἐν/P τῇ/RA-DSF ἐλεημοσύνῃ/N1-DSF τοῦ/RA-GSM θεοῦ/N2-GSM αὐτῶν/RD-GPM καὶ/C ἁμαρτωλοὶ/A1B-NPM ἀπολοῦνται/VF2-FMI3P εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM χρόνον/N2-ASM 
+ ὕμνος/N2-NSM τῷ/RA-DSM Σαλωμων/N-DSM εἰς/P ἀντίληψιν/N3I-ASF ὁσίοις/A1A-DPN 
+ ἐν/P τῷ/RA-DSN νυστάξαι/VS-AAN ψυχήν/N1-ASF μου/RP-GS ἀπὸ/P κυρίου/N2-GSM παρὰ/P μικρὸν/A1A-ASM ὠλίσθησα/VAI-AAI1S ἐν/P καταφορᾷ/N1A-DSF ὑπνούντων/V4-PAPGPM μακρὰν/D ἀπὸ/P θεοῦ/N2-GSM 
+ παρ'/P ὀλίγον/A1-ASM ἐξεχύθη/VCI-API3S ἡ/RA-NSF ψυχή/N1-NSF μου/RP-GS εἰς/P θάνατον/N2-ASM σύνεγγυς/D πυλῶν/N1-GPF ᾅδου/N1M-GSM μετὰ/P ἁμαρτωλοῦ/A1B-GSM 
+ ἐν/P τῷ/RA-DSN διενεχθῆναι/VQ-APN ψυχήν/N1-ASF μου/RP-GS ἀπὸ/P κυρίου/N2-GSM θεοῦ/N2-GSM Ισραηλ/N-GS εἰ/C μὴ/D ὁ/RA-NSM κύριος/N2-NSM ἀντελάβετό/VBI-AMI3S μου/RP-GS τῷ/RA-DSN ἐλέει/N3E-DSN αὐτοῦ/RD-GSM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM 
+ ἔνυξέν/VAI-AAI3S με/RP-AS ὡς/C κέντρον/N2N-NSN ἵππου/N2-GSM ἐπὶ/P τὴν/RA-ASF γρηγόρησιν/N3I-ASF αὐτοῦ/RD-GSM ὁ/RA-NSM σωτὴρ/N3-NSM καὶ/C ἀντιλήπτωρ/N3T-NSM μου/RP-GS ἐν/P παντὶ/A3-DSM καιρῷ/N2-DSM ἔσωσέν/VAI-AAI3S με/RP-AS 
+ ἐξομολογήσομαί/VF-FMI1S σοι/RP-DS ὁ/RA-NSM θεός/N2-NSM ὅτι/C ἀντελάβου/VBI-AMI2S μου/RP-GS εἰς/P σωτηρίαν/N1A-ASF καὶ/C οὐκ/D ἐλογίσω/VAI-AMI2S με/RP-AS μετὰ/P τῶν/RA-GPM ἁμαρτωλῶν/A1B-GPM εἰς/P ἀπώλειαν/N1A-ASF 
+ μὴ/D ἀποστήσῃς/VA-AAS2S τὸ/RA-ASN ἔλεός/N3E-ASN σου/RP-GS ἀπ'/P ἐμοῦ/RP-GS ὁ/RA-NSM θεός/N2-NSM μηδὲ/C τὴν/RA-ASF μνήμην/N1-ASF σου/RP-GS ἀπὸ/P καρδίας/N1A-GSF μου/RP-GS ἕως/P θανάτου/N2-GSM 
+ ἐπικράτησόν/VF-FAPASN μου/RP-GS ὁ/RA-NSM θεός/N2-NSM ἀπὸ/P ἁμαρτίας/N1A-GSF πονηρᾶς/A1A-GSF καὶ/C ἀπὸ/P πάσης/A1S-GSF γυναικὸς/N3K-GSF πονηρᾶς/A1A-GSF σκανδαλιζούσης/V1-PAPGSF ἄφρονα/A3N-ASM 
+ καὶ/C μὴ/D ἀπατησάτω/VA-AAD3S με/RP-AS κάλλος/N3E-ASN γυναικὸς/N3K-GSF παρανομούσης/V2-PAPGSF καὶ/C παντὸς/A3-GSM ὑποκειμένου/V5-PMPGSM ἀπὸ/P ἁμαρτίας/N1A-GSF ἀνωφελοῦς/A3H-GSM 
+ τὰ/RA-APN ἔργα/N2N-APN τῶν/RA-GPM χειρῶν/N3-GPF μου/RP-GS κατεύθυνον/VA-AAD2S ἐν/P τόπῳ/N2-DSM σου/RP-GS καὶ/C τὰ/RA-APN διαβήματά/N3M-APN μου/RP-GS ἐν/P τῇ/RA-DSF μνήμῃ/N1-DSF σου/RP-GS διαφύλαξον/VA-AAD2S 
+ τὴν/RA-ASF γλῶσσάν/N1S-ASF μου/RP-GS καὶ/C τὰ/RA-APN χείλη/N3E-APN μου/RP-GS ἐν/P λόγοις/N2-DPM ἀληθείας/N1A-GSF περίστειλον/VA-AAD2S ὀργὴν/N1-ASF καὶ/C θυμὸν/N2-ASM ἄλογον/A1B-ASM μακρὰν/D ποίησον/VA-AAD2S ἀπ'/P ἐμοῦ/RP-GS 
+ γογγυσμὸν/N2-ASM καὶ/C ὀλιγοψυχίαν/N1A-ASF ἐν/P θλίψει/N3I-DSF μάκρυνον/V1-PAD2S ἀπ'/P ἐμοῦ/RP-GS ἐὰν/C ἁμαρτήσω/VF-FAI1S ἐν/P τῷ/RA-DSM σε/RP-AS παιδεύειν/V1-PAN εἰς/P ἐπιστροφήν/N1-ASF 
+ εὐδοκίᾳ/N1A-DSF δὲ/X μετὰ/P ἱλαρότητος/N3T-GSF στήρισον/VA-AAD2S τὴν/RA-ASF ψυχήν/N1-ASF μου/RP-GS ἐν/P τῷ/RA-DSN ἐνισχῦσαί/VA-AAN σε/RP-AS τὴν/RA-ASF ψυχήν/N1-ASF μου/RP-GS ἀρκέσει/VF-FAI3S μοι/RP-DS τὸ/RA-ASN δοθέν/VC-APPASN 
+ ὅτι/C ἐὰν/C μὴ/D σὺ/RP-NS ἐνισχύσῃς/VA-AAS2S τίς/RI-NSM ὑφέξεται/VF-FMI3S παιδείαν/N1A-ASF ἐν/P πενίᾳ/N1A-DSF 
+ ἐν/P τῷ/RA-DSN ἐλέγχεσθαι/V1-PMN ψυχὴν/N1-ASF ἐν/P χειρὶ/N3-DSF σαπρίας/N1A-APF αὐτοῦ/RD-GSM ἡ/RA-NSF δοκιμασία/N1A-NSF σου/RP-GS ἐν/P σαρκὶ/N3K-DSF αὐτοῦ/RD-GSM καὶ/C ἐν/P θλίψει/N3I-DSF πενίας/N1A-GSF 
+ ἐν/P τῷ/RA-DSN ὑπομεῖναι/VA-AAN δίκαιον/A1A-ASM ἐν/P τούτοις/RD-DPM ἐλεηθήσεται/VC-FPI3S ὑπὸ/P κυρίου/N2-GSM 
+ ψαλμὸς/N2-NSM τῷ/RA-DSM Σαλωμων/N-DSM μετὰ/P ᾠδῆς/N1-GSF τῷ/RA-DSM βασιλεῖ/N3V-DSM 
+ κύριε/N2-VSM σὺ/RP-NS αὐτὸς/RD-NSM βασιλεὺς/N3V-NSM ἡμῶν/RP-GP εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM καὶ/C ἔτι/D ὅτι/C ἐν/P σοί/RP-DS ὁ/RA-NSM θεός/N2-NSM καυχήσεται/VF-FMI3S ἡ/RA-NSF ψυχὴ/N1-NSF ἡμῶν/RP-GP 
+ καὶ/C τίς/RI-NSM ὁ/RA-NSM χρόνος/N2-NSM ζωῆς/N1-GSF ἀνθρώπου/N2-GSM ἐπὶ/P τῆς/RA-GSF γῆς/N1-GSF κατὰ/P τὸν/RA-ASM χρόνον/N2-ASM αὐτοῦ/RD-GSM καὶ/C ἡ/RA-NSF ἐλπὶς/N3D-NSF αὐτοῦ/RD-GSM ἐπ'/P αὐτόν/RD-ASM 
+ ἡμεῖς/RP-NP δὲ/X ἐλπιοῦμεν/VF2-FAI1P ἐπὶ/P τὸν/RA-ASM θεὸν/N2-ASM σωτῆρα/N3H-ASM ἡμῶν/RP-GP ὅτι/C τὸ/RA-ASN κράτος/N3E-ASN τοῦ/RA-GSM θεοῦ/N2-GSM ἡμῶν/RP-GP εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM μετ'/P ἐλέους/N3E-GSN καὶ/C ἡ/RA-NSF βασιλεία/N1A-NSF τοῦ/RA-GSM θεοῦ/N2-GSM ἡμῶν/RP-GP εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM ἐπὶ/P τὰ/RA-APN ἔθνη/N3E-APN ἐν/P κρίσει/N3I-DSF 
+ σύ/RP-NS κύριε/N2-VSM ᾑρετίσω/VSI-AAI1S τὸν/RA-ASM Δαυιδ/N-ASM βασιλέα/N3V-ASM ἐπὶ/P Ισραηλ/N-DS καὶ/C σὺ/RP-NS ὤμοσας/VAI-AAI2S αὐτῷ/RD-DSM περὶ/P τοῦ/RA-GSN σπέρματος/N3M-GSN αὐτοῦ/RD-GSM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM τοῦ/RA-GSM μὴ/D ἐκλείπειν/V1-PAN ἀπέναντί/D σου/RP-GS βασίλειον/N2N-ASN αὐτοῦ/RD-GSM 
+ καὶ/C ἐν/P ταῖς/RA-DPF ἁμαρτίαις/N1A-DPF ἡμῶν/RP-GP ἐπανέστησαν/VHI-AAI3P ἡμῖν/RP-DP ἁμαρτωλοί/A1B-NPM ἐπέθεντο/VEI-AMI3P ἡμῖν/RP-DP καὶ/C ἔξωσαν/VA-AAPASN ἡμᾶς/RP-AP οἷς/RR-DPM οὐκ/D ἐπηγγείλω/VAI-AMI2S μετὰ/P βίας/N1A-GSF ἀφείλαντο/VBI-AMI3P καὶ/C οὐκ/D ἐδόξασαν/VQI-AAI3P τὸ/RA-ASN ὄνομά/N3M-ASN σου/RP-GS τὸ/RA-ASN ἔντιμον/A1B-ASM 
+ ἐν/P δόξῃ/N1S-DSF ἔθεντο/VEI-AMI3P βασίλειον/N2N-ASN ἀντὶ/P ὕψους/N3E-GS αὐτῶν/RD-GPM ἠρήμωσαν/VAI-AAI3P τὸν/RA-ASM θρόνον/N2-ASM Δαυιδ/N-ASM ἐν/P ὑπερηφανίᾳ/N1A-DSF ἀλλάγματος/N3M-GSN 
+ καὶ/C σύ/RP-NS ὁ/RA-NSM θεός/N2-NSM καταβαλεῖς/VF2-FAI2S αὐτοὺς/RD-APM καὶ/C ἀρεῖς/VF2-FAI2S τὸ/RA-ASN σπέρμα/N3M-ASN αὐτῶν/RA-GPM ἀπὸ/P τῆς/RA-GSF γῆς/N1-GSF ἐν/P τῷ/RA-DSN ἐπαναστῆναι/VH-AAN αὐτοῖς/RD-DPM ἄνθρωπον/N2-ASM ἀλλότριον/A1A-ASM γένους/N3E-GSN ἡμῶν/RP-GP 
+ κατὰ/P τὰ/RA-APN ἁμαρτήματα/N3M-APN αὐτῶν/RD-GPM ἀποδώσεις/VF-FAI2S αὐτοῖς/RD-DPM ὁ/RA-NSM θεός/N2-NSM εὑρεθῆναι/VC-APN αὐτοῖς/RD-DPM κατὰ/P τὰ/RA-APN ἔργα/N2N-APN αὐτῶν/RD-GPM 
+ οὐκ/D ἠλέησεν/VAI-AAI3S αὐτοὺς/RD-APM ὁ/RA-NSM θεός/N2-NSM ἐξηρεύνησεν/VAI-AAI3S τὸ/RA-ASN σπέρμα/N3M-ASN αὐτῶν/RD-GPM καὶ/C οὐκ/D ἀφῆκεν/VAI-AAI3S αὐτῶν/RD-GPM ἕνα/A3-ASM 
+ πιστὸς/A1-NSM ὁ/RA-NSM κύριος/N2-NSM ἐν/P πᾶσι/A3-DPM τοῖς/RA-DPN κρίμασιν/N3M-DPN αὐτοῦ/RD-GSM οἷς/RR-DPM ποιεῖ/V2-PAI3S ἐπὶ/P τὴν/RA-ASF γῆν/N1-ASF 
+ ἠρήμωσεν/VAI-AAI3S ὁ/RA-NSM ἄνομος/A1B-NSM τὴν/RA-ASF γῆν/N1-ASF ἡμῶν/RP-GP ἀπὸ/P ἐνοικούντων/V2-PAPGPM αὐτήν/RD-ASF ἠφάνισαν/VAI-AAI3P νέον/A1A-ASM καὶ/C πρεσβύτην/N1M-ASM καὶ/C τέκνα/N2N-APN αὐτῶν/RD-GPM ἅμα/D 
+ ἐν/P ὀργῇ/N1-DSF κάλλους/N3E-GSN αὐτοῦ/RD-GSM ἐξαπέστειλεν/VAI-AAI3S αὐτὰ/RD-APN ἕως/C ἐπὶ/P δυσμῶν/N1-GPF καὶ/C τοὺς/RA-APM ἄρχοντας/N3-APM τῆς/RA-GSF γῆς/N1-GSF εἰς/P ἐμπαιγμὸν/N2-ASM καὶ/C οὐκ/D ἐφείσατο/VAI-AMI3S 
+ ἐν/P ἀλλοτριότητι/N3T-DSF ὁ/RA-NSM ἐχθρὸς/A1A-NSM ἐποίησεν/VAI-AAI3S ὑπερηφανίαν/N1A-ASF καὶ/C ἡ/RA-NSF καρδία/N1A-NSF αὐτοῦ/RD-GSM ἀλλοτρία/A1A-APN ἀπὸ/P τοῦ/RA-GSM θεοῦ/N2-GSM ἡμῶν/RP-GP 
+ καὶ/C πάντα/A3-ASM ὅσα/A1-APN ἐποίησεν/VAI-AAI3S ἐν/P Ιερουσαλημ/N-DS καθὼς/D καὶ/C τὰ/RA-APN ἔθνη/N3E-APN ἐν/P ταῖς/RA-DPF πόλεσι/N3I-DPF τοῦ/RA-GSN σθένους/N3E-GSN αὐτῶν/RD-GPM 
+ καὶ/C ἐπεκρατοῦσαν/VAI-AAI3P αὐτῶν/RD-GPM οἱ/RA-NPM υἱοὶ/N2-NPM τῆς/RA-GSF διαθήκης/N1-GSF ἐν/P μέσῳ/A1-GPN ἐθνῶν/N3E-GPN συμμίκτων/A1B-GPN οὐκ/D ἦν/V9-IAI3S ἐν/P αὐτοῖς/RD-DPM ὁ/RA-NSM ποιῶν/V2-PAPNSM ἐν/P Ιερουσαλημ/N-DS ἔλεος/N3E-ASN καὶ/C ἀλήθειαν/N1A-ASF 
+ ἐφύγοσαν/VBI-AAI3P ἀπ'/P αὐτῶν/RD-GPM οἱ/RA-NPM ἀγαπῶντες/V3-PAPNPM συναγωγὰς/N1-APF ὁσίων/A1A-GPM ὡς/C στρουθία/N2-NPM ἐξεπετάσθησαν/VTI-API3P ἀπὸ/P κοίτης/N1-GSF αὐτῶν/RD-GPM 
+ ἐπλανῶντο/V3I-IMI3P ἐν/P ἐρήμοις/N2-DPF σωθῆναι/VC-APN ψυχὰς/N1-APF αὐτῶν/RD-GPM ἀπὸ/P κακοῦ/A1-GSM καὶ/C τίμιον/A1A-ASM ἐν/P ὀφθαλμοῖς/N2-DPM παροικίας/N1A-APF ψυχὴ/N1-NSF σεσῳσμένη/VT-XAPNSF ἐξ/P αὐτῶν/RD-GPM 
+ εἰς/P πᾶσαν/A1S-ASF τὴν/RA-ASF γῆν/N1-ASF ἐγενήθη/VCI-API3S ὁ/RA-NSM σκορπισμὸς/N2-NSM αὐτῶν/RD-GPM ὑπὸ/P ἀνόμων/A1B-GPM ὅτι/C ἀνέσχεν/VBI-AAI3S ὁ/RA-NSM οὐρανὸς/N2-NSM τοῦ/RA-GSM στάξαι/VA-AAN ὑετὸν/N2-ASM ἐπὶ/P τὴν/RA-ASF γῆν/N1-ASF 
+ πηγαὶ/N1-NPF συνεσχέθησαν/VCI-API3P αἰώνιοι/A1B-NPM ἐξ/P ἀβύσσων/N2-GPM ἀπὸ/P ὀρέων/N3E-GPN ὑψηλῶν/A1-GPM ὅτι/C οὐκ/D ἦν/V9-IAI3S ἐν/P αὐτοῖς/RD-DPM ποιῶν/V2-PAPNSM δικαιοσύνην/N1-ASF καὶ/C κρίμα/N3M-ASN 
+ ἀπὸ/P ἄρχοντος/N3-GSM αὐτῶν/RD-GPM καὶ/C λαοῦ/N2-GSM ἐλαχίστου/A1-GSMS ἐν/P πάσῃ/A1S-DSF ἁμαρτίᾳ/N1A-DSF ὁ/RA-NSM βασιλεὺς/N3V-NSM ἐν/P παρανομίᾳ/N1A-DSF καὶ/C ὁ/RA-NSM κριτὴς/N1M-NSM ἐν/P ἀπειθείᾳ/N1A-DSF καὶ/C ὁ/RA-NSM λαὸς/N2-NSM ἐν/P ἁμαρτίᾳ/N1A-DSF 
+ ἰδέ/VB-AAD2S κύριε/N2-VSM καὶ/C ἀνάστησον/VA-AAD2S αὐτοῖς/RD-DPM τὸν/RA-ASM βασιλέα/N3V-ASM αὐτῶν/RD-GPM υἱὸν/N2-ASM Δαυιδ/N-GSM εἰς/P τὸν/RA-ASM καιρόν/N2-ASM ὃν/RR-ASM εἵλου/VBI-AMI2S σύ/RP-NS ὁ/RA-NSM θεός/N2-NSM τοῦ/RA-GSN βασιλεῦσαι/VA-AAN ἐπὶ/P ισραηλ/N-DS παῖδά/N3D-ASM σου/RP-GS 
+ καὶ/C ὑπόζωσον/VA-AAD2S αὐτὸν/RD-ASM ἰσχὺν/N3-ASF τοῦ/RA-GSN θραῦσαι/VA-AAN ἄρχοντας/N ἀδίκους/A1B-APM καθαρίσαι/VA-AAN Ιερουσαλημ/N-AS ἀπὸ/P ἐθνῶν/N3E-GPN καταπατούντων/V2-PAPGPM ἐν/P ἀπωλείᾳ/N1A-DSF 
+ ἐν/P σοφίᾳ/N1A-DSF δικαιοσύνης/N1-GSF ἐξῶσαι/VA-AAN ἁμαρτωλοὺς/A1B-APM ἀπὸ/P κληρονομίας/N1A-GSF ἐκτρῖψαι/VA-AAN ὑπερηφανίαν/N1A-ASF ἁμαρτωλοῦ/A1B-GSM ὡς/C σκεύη/N3E-N κεραμέως/N3V-GSM 
+ ἐν/P ῤάβδῳ/N2-DSF σιδηρᾷ/N1A-DSF συντρῖψαι/VA-AAN πᾶσαν/A1S-ASF ὑπόστασιν/N3I-ASF αὐτῶν/RD-GPM ὀλεθρεῦσαι/VA-AAN ἔθνη/N3E-APN παράνομα/A1B-APN ἐν/P λόγῳ/N2-DSM στόματος/N3M-GSN αὐτοῦ/RD-GSM 
+ ἐν/P ἀπειλῇ/N1-DSF αὐτοῦ/RD-GSM φυγεῖν/VB-AAN ἔθνη/N3E-APN ἀπὸ/P προσώπου/N2N-GSN αὐτοῦ/RD-GSM καὶ/C ἐλέγξαι/VA-AAN ἁμαρτωλοὺς/A1B-APM ἐν/P λόγῳ/N2-DSM καρδίας/N1A-GSF αὐτῶν/RD-GPM 
+ καὶ/C συνάξει/VF-FAI3S λαὸν/N2-ASM ἅγιον/A1A-ASM οὗ/RR-GSM ἀφηγήσεται/VF-FMI3S ἐν/P δικαιοσύνῃ/N1-DSF καὶ/C κρινεῖ/VF2-FAI3S φυλὰς/N1-APF λαοῦ/N2-GSM ἡγιασμένου/VT-XMPGSM ὑπὸ/P κυρίου/N2-GSM θεοῦ/N2-GSM αὐτοῦ/RD-GSM 
+ καὶ/C οὐκ/D ἀφήσει/VF-FAI3S ἀδικίαν/N1A-ASF ἐν/P μέσῳ/A1-DSM αὐτῶν/RD-GPM αὐλισθῆναι/VS-APN ἔτι/D καὶ/C οὐ/D κατοικήσει/VF-FAI3S πᾶς/A3-NSM ἄνθρωπος/N2-NSM μετ'/P αὐτῶν/RD-GPM εἰδὼς/VX-XAPNSM κακίαν/N1A-ASF γνώσεται/VF-FMI3S γὰρ/X αὐτοὺς/RD-APM ὅτι/C πάντες/A3-NPM υἱοὶ/N2-NPM θεοῦ/N2-GSM εἰσιν/V9-PAI3P αὐτῶν/RD-GPM 
+ καὶ/C καταμερίσει/VF-FAI3S αὐτοὺς/RD-APM ἐν/P ταῖς/RA-DPF φυλαῖς/N1-DPF αὐτῶν/RD-GPM ἐπὶ/P τῆς/RA-GSF γῆς/N1-GSF καὶ/C πάροικος/A1B-NSM καὶ/C ἀλλογενὴς/A3H-NSM οὐ/D παροικήσει/VF-FAI3S αὐτοῖς/RD-DPM ἔτι/D 
+ κρινεῖ/VF2-FAI3S λαοὺς/N2-APM καὶ/C ἔθνη/N3E-APN ἐν/P σοφίᾳ/N1A-DSF δικαιοσύνης/N1-GSF αὐτοῦ/RD-GSM διάψαλμα/N1A-NSF 
+ καὶ/D ἕξει/VF-FAI3S λαοὺς/N2-APM ἐθνῶν/N3E-GPN δουλεύειν/V1-PAN αὐτῷ/RD-DSM ὑπὸ/P τὸν/RA-ASM ζυγὸν/N2-ASN αὐτοῦ/RD-GSM καὶ/C τὸν/RA-ASM κύριον/N2-ASM δοξάσει/VF-FAI3S ἐν/P ἐπισήμῳ/A1B-DSM πάσης/A1S-GSF τῆς/RA-GSF γῆς/N1-GSF καὶ/C καθαριεῖ/VF2-FAI3S Ιερουσαλημ/N-AS ἐν/P ἁγιασμῷ/N2-DSM ὡς/C καὶ/C τὸ/RA-ASN ἀπ'/P ἀρχῆς/N1-GSF 
+ ἔρχεσθαι/V1-PMN ἔθνη/N3E-APN ἀπ'/P ἄκρου/A1A-GSM τῆς/RA-GSF γῆς/N1-GSF ἰδεῖν/VB-AAN τὴν/RA-ASF δόξαν/N1S-ASF αὐτοῦ/RD-GSM φέροντες/V1-PAPNPM δῶρα/N2N-APN τοὺς/RA-APM ἐξησθενηκότας/VXI-XAPAPM υἱοὺς/N2-APM αὐτῆς/RD-GSF καὶ/C ἰδεῖν/VB-AAN τὴν/RA-ASF δόξαν/N1S-ASF κυρίου/N2-GSM ἣν/RR-ASF ἐδόξασεν/VQI-AAI3S αὐτὴν/RD-ASF ὁ/RA-NSM θεός/N2-NSM 
+ καὶ/C αὐτὸς/RD-NSM βασιλεὺς/N3V-NSM δίκαιος/A1A-NSM διδακτὸς/N2-NSM ὑπὸ/P θεοῦ/N2-GSM ἐπ'/P αὐτούς/RD-APM καὶ/C οὐκ/D ἔστιν/V9-PAI3S ἀδικία/N1A-NSF ἐν/P ταῖς/RA-DPF ἡμέραις/N1A-DPF αὐτοῦ/RD-GSM ἐν/P μέσῳ/A1-DSM αὐτῶν/RD-GPM ὅτι/C πάντες/A3-NPM ἅγιοι/A1A-NPM καὶ/C βασιλεὺς/N3V-NSM αὐτῶν/RD-GPM χριστὸς/A1-NSM κυρίου/N2-GSM 
+ οὐ/D γὰρ/X ἐλπιεῖ/VF2-FAI3S ἐπὶ/P ἵππον/N2-ASM καὶ/C ἀναβάτην/N1M-ASM καὶ/C τόξον/N2N-ASN οὐδὲ/C πληθυνεῖ/VF2-FAI3S αὑτῷ/RD-DSM χρυσίον/N2N-ASN οὐδὲ/C ἀργύριον/N2N-ASN εἰς/P πόλεμον/N2-ASM καὶ/C πολλοῖς/A1-DPM λαοῖς/N2-DPM οὐ/D συνάξει/VF-FAI3S ἐλπίδας/N3D-APF εἰς/P ἡμέραν/N1A-ASF πολέμου/N2-GSM 
+ κύριος/N2-NSM αὐτὸς/RD-NSM βασιλεὺς/N3V-NSM αὐτοῦ/RD-GSM ἐλπὶς/N3D-NSF τοῦ/RA-GSM δυνατοῦ/A1-GSM ἐλπίδι/N3D-DSF θεοῦ/N2-GSM καὶ/C ἐλεήσει/VF-FAI3S πάντα/A3-ASM τὰ/RA-APN ἔθνη/N3E-APN ἐνώπιον/P αὐτοῦ/RD-GSM ἐν/P φόβῳ/N2-DSM 
+ πατάξει/VF-FAI3S γὰρ/X γῆν/N1-ASF τῷ/RA-DSM λόγῳ/N2-DSM τοῦ/RA-GSN στόματος/N3M-GSN αὐτοῦ/RD-GSM εἰς/P αἰῶνα/N3W-ASM εὐλογήσει/VF-FAI3S λαὸν/N2-ASM κυρίου/N2-GSM ἐν/P σοφίᾳ/N1A-DSF μετ'/P εὐφροσύνης/N1-GSF 
+ καὶ/C αὐτὸς/RD-NSM καθαρὸς/A1A-NSM ἀπὸ/P ἁμαρτίας/N1A-GSF τοῦ/RA-GSN ἄρχειν/V1-PAN λαοῦ/N2-GSM μεγάλου/A1-GSM ἐλέγξαι/VA-AAN ἄρχοντας/N καὶ/C ἐξᾶραι/VA-AAN ἁμαρτωλοὺς/A1B-APM ἐν/P ἰσχύι/N3U-DSF λόγου/N2-GSM 
+ καὶ/C οὐκ/D ἀσθενήσει/VF-FAI3S ἐν/P ταῖς/RA-DPF ἡμέραις/N1A-DPF αὐτοῦ/RD-GSM ἐπὶ/P θεῷ/N2-DSM αὐτοῦ/RD-GSM ὅτι/C ὁ/RA-NSM θεὸς/N2-NSM κατειργάσατο/VAI-AMI3S αὐτὸν/RD-ASM δυνατὸν/A1-ASM ἐν/P πνεύματι/N3M-DSN ἁγίῳ/A1A-DSM καὶ/C σοφὸν/A1-ASM ἐν/P βουλῇ/N1-DSF συνέσεως/N3I-GS μετὰ/P ἰσχύος/N3U-GSF καὶ/C δικαιοσύνης/N1-GSF 
+ καὶ/C εὐλογία/N1A-NSF κυρίου/N2-GSM μετ'/P αὐτοῦ/RD-GSM ἐν/P ἰσχύι/N3U-DSF καὶ/C οὐκ/D ἀσθενήσει/VF-FAI3S 
+ ἡ/RA-NSF ἐλπὶς/N3D-NSF αὐτοῦ/RD-GSM ἐπὶ/P κύριον/N2-ASM καὶ/C τίς/RI-NSM δύναται/V6-PMI3S πρὸς/P αὐτόν/RD-ASM 
+ ἰσχυρὸς/A1A-NSM ἐν/P ἔργοις/N2N-DPN αὐτοῦ/RD-GSM καὶ/C κραταιὸς/A1A-NSM ἐν/P φόβῳ/N2-DSM θεοῦ/N2-GSM ποιμαίνων/V1-PAPNSM τὸ/RA-ASN ποίμνιον/N2-ASN κυρίου/N2-GSM ἐν/P πίστει/N3I-DSF καὶ/C δικαιοσύνῃ/N1-DSF καὶ/C οὐκ/D ἀφήσει/VF-FAI3S ἀσθενῆσαι/VA-AAN ἐν/P αὐτοῖς/RD-DPM ἐν/P τῇ/RA-DSF νομῇ/N1-DSF αὐτῶν/RD-GPM 
+ ἐν/P ἰσότητι/N3T-DSF πάντας/A3-APM αὐτοὺς/RD-APM ἄξει/VF-FAI3S καὶ/C οὐκ/D ἔσται/VF-FMI3S ἐν/P αὐτοῖς/RD-DPM ὑπερηφανία/N1A-NSF τοῦ/RA-GSM καταδυναστευθῆναι/VC-APN ἐν/P αὐτοῖς/RD-DPM 
+ αὕτη/RD-NSF ἡ/RA-NSF εὐπρέπεια/N1A-NSF τοῦ/RA-GSM βασιλέως/N3V-GSM Ισραηλ/N-GS ἣν/RR-ASF ἔγνω/VZI-AAI3S ὁ/RA-NSM θεός/N2-NSM ἀναστῆσαι/VA-AAN αὐτὸν/RD-ASM ἐπ'/P οἶκον/N2-ASM Ισραηλ/N-GS παιδεῦσαι/VA-AAN αὐτόν/RD-ASM 
+ τὰ/RA-APN ῤήματα/N3M-APN αὐτοῦ/RD-GSM πεπυρωμένα/VX-XMPAPN ὑπὲρ/P χρυσίον/N2N-ASN τὸ/RA-ASN πρῶτον/A1-B τίμιον/A1A-ASM ἐν/P συναγωγαῖς/N1-DPF διακρινεῖ/VF2-FAI3S λαοῦ/N2-GSM φυλὰς/N1-APF ἡγιασμένου/VT-XMPGSM οἱ/RA-NPM λόγοι/N2-NPM αὐτοῦ/RD-GSM ὡς/C λόγοι/N2-NPM ἁγίων/A1A-GPM ἐν/P μέσῳ/A1-DSM λαῶν/N2-GPM ἡγιασμένων/VT-XMPGPM 
+ μακάριοι/A1A-NPM οἱ/RA-NPM γενόμενοι/VB-AMPNPM ἐν/P ταῖς/RA-DPF ἡμέραις/N1A-DPF ἐκείναις/RD-DPF ἰδεῖν/VB-AAN τὰ/RA-APN ἀγαθὰ/A1-APN Ισραηλ/N-GS ἐν/P συναγωγῇ/N1-DSF φυλῶν/N1-GPF ἃ/RR-APN ποιήσει/VF-FAI3S ὁ/RA-NSM θεός/N2-NSM 
+ ταχύναι/VA-AAN ὁ/RA-NSM θεὸς/N2-NSM ἐπὶ/P Ισραηλ/N-DS τὸ/RA-ASN ἔλεος/N3E-ASN αὐτοῦ/RD-GSM ῤύσαιτο/VA-AMO3S ἡμᾶς/RP-AP ἀπὸ/P ἀκαθαρσίας/N1A-GSF ἐχθρῶν/A1A-GPM βεβήλων/N2-GPM 
+ κύριος/N2-NSM αὐτὸς/RD-NSM βασιλεὺς/N3V-NSM ἡμῶν/RP-GP εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM καὶ/C ἔτι/D 
+ ψαλμὸς/N2-NSM τῷ/RA-DSM Σαλωμων/N-DSM ἔτι/D τοῦ/RA-GSM χριστοῦ/A1-GSM κυρίου/N2-GSM 
+ κύριε/N2-VSM τὸ/RA-ASN ἔλεός/N3E-ASN σου/RP-GS ἐπὶ/P τὰ/RA-APN ἔργα/N2N-APN τῶν/RA-GPM χειρῶν/N3-GPF σου/RP-GS εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM ἡ/RA-NSF χρηστότης/N3T-NSF σου/RP-GS μετὰ/P δόματος/N3M-GSN πλουσίου/A1A-GSM ἐπὶ/P Ισραηλ/N-DS 
+ οἱ/RA-NPM ὀφθαλμοί/N2-NPM σου/RP-GS ἐπιβλέποντες/V1-PAPNPM ἐπ'/P αὐτά/RD-APN καὶ/C οὐχ/D ὑστερήσει/VF-FAI3S ἐξ/P αὐτῶν/RD-GPM τὰ/RA-ASN ὦτά/N3T-ASN σου/RP-GS ἐπακούει/V1-PAI3S εἰς/P δέησιν/N3I-ASF πτωχοῦ/N2-GSM ἐν/P ἐλπίδι/N3D-DSF 
+ τὰ/RA-APN κρίματά/N3M-APN σου/RP-GS ἐπὶ/P πᾶσαν/A1S-ASF τὴν/RA-ASF γῆν/N1-ASF μετὰ/P ἐλέους/N3E-GSN καὶ/C ἡ/RA-NSF ἀγάπη/N1-NS σου/RP-GS ἐπὶ/P σπέρμα/N3M-ASN Αβρααμ/N-GSM υἱοὺς/N2-APM Ισραηλ/N-GS 
+ ἡ/RA-NSF παιδεία/N1A-NSF σου/RP-GS ἐφ'/P ἡμᾶς/RP-AP ὡς/C υἱὸν/N2-ASM πρωτότοκον/A1B-ASM μονογενῆ/A3H-ASM ἀποστρέψαι/VA-AAN ψυχὴν/N1-ASF εὐήκοον/A1B-ASM ἀπὸ/P ἀμαθίας/N1A-GSF ἐν/P ἀγνοίᾳ/N1A-DSF 
+ καθαρίσαι/VA-AAN ὁ/RA-NSM θεὸς/N2-NSM Ισραηλ/N-GS εἰς/P ἡμέραν/N1A-ASF ἐλέους/N3E-GSN ἐν/P εὐλογίᾳ/N1A-DSF εἰς/P ἡμέραν/N1A-ASF ἐκλογῆς/N1-GSF ἐν/P ἀνάξει/N3I-DSF χριστοῦ/A1-GSM αὐτοῦ/RD-GSM 
+ μακάριοι/N2-NPM οἱ/RA-NPM γενόμενοι/VB-AMPNPM ἐν/P ταῖς/RA-DPF ἡμέραις/N1A-DPF ἐκείναις/RD-DPF ἰδεῖν/VB-AAN τὰ/RA-APN ἀγαθὰ/A1-GSM κυρίου/N2-GSM ἃ/RR-APN ποιήσει/VF-FAI3S γενεᾷ/N1A-DSF τῇ/RA-DSF ἐρχομένῃ/V1-PMPDSF 
+ ὑπὸ/P ῤάβδον/N2-ASF παιδείας/N1A-GSF χριστοῦ/A1-GSM κυρίου/N2-GSM ἐν/P φόβῳ/N2-DSM θεοῦ/N2-GSM αὐτοῦ/RD-GSM ἐν/P σοφίᾳ/N1A-DSF πνεύματος/N3M-GSN καὶ/C δικαιοσύνης/N1-GSF καὶ/C ἰσχύος/N3U-GSF 
+ κατευθῦναι/VA-AAN ἄνδρα/N3-ASM ἐν/P ἔργοις/N2N-DPN δικαιοσύνης/N1-GSF φόβῳ/N2-DSM θεοῦ/N2-GSM καταστῆσαι/VA-AAN πάντας/A3-APM αὐτοὺς/RD-APM ἐνώπιον/P κυρίου/N2-GSM 
+ γενεὰ/N1A-NSF ἀγαθὴ/A1-NSF ἐν/P φόβῳ/N2-DSM θεοῦ/N2-GSM ἐν/P ἡμέραις/N1A-DPF ἐλέους/N3E-GSN διάψαλμα/N3M-NSN 
+ μέγας/A1P ἡμῶν/RP-GP ὁ/RA-NSM θεὸς/N2-NSM καὶ/C ἔνδοξος/A1B-NSM ἐν/P ὑψίστοις/N2-DPM κατοικῶν/V2-PAPNSM ὁ/RA-NSM διατάξας/VA-AAPNSM ἐν/P πορείᾳ/N1A-DSF φωστῆρας/N3H-APM εἰς/P καιροὺς/N2-APM ὡρῶν/N1A-GPF ἀφ'/P ἡμερῶν/N1A-GPF εἰς/P ἡμέρας/N1A-GSF καὶ/C οὐ/D παρέβησαν/VZI-AAI3P ἀπὸ/P ὁδοῦ/N2-GSF ἧς/RR-GSF ἐνετείλω/VAI-AMI2S αὐτοῖς/RD-DPM 
+ ἐν/P φόβῳ/N2-DSM θεοῦ/N2-GSM ἡ/RA-NSF ὁδὸς/N2-NSF αὐτῶν/RD-GPM καθ'/P ἑκάστην/A1-ASF ἡμέραν/N1A-ASF ἀφ'/P ἧς/RR-GSF ἡμέρας/N1A-GSF ἔκτισεν/VAI-AAI3S αὐτοὺς/RD-APM ὁ/RA-NSM θεὸς/N2-NSM καὶ/C ἕως/C αἰῶνος/N3W-GSM 
+ καὶ/C οὐκ/D ἐπλανήθησαν/VCI-API3P ἀφ'/P ἧς/RR-GSF ἡμέρας/N1A-GSF ἔκτισεν/VAI-AAI3S αὐτούς/RD-APM ἀπὸ/P γενεῶν/N1A-GPF ἀρχαίων/A1A-GPM οὐκ/D ἀπέστησαν/VHI-AAI3P ὁδῶν/N2-GPF αὐτῶν/RD-GPM εἰ/C μὴ/D ὁ/RA-NSM θεὸς/N2-NSM ἐνετείλατο/VAI-AMI3S αὐτοῖς/RD-DPM ἐν/P ἐπιταγῇ/N1-DSF δούλων/N2-GPM αὐτοῦ/RD-GSM 

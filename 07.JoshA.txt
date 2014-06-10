@@ -1,0 +1,96 @@
+Καβσεηλ/N-NS καὶ/C Εδραι/N-NS καὶ/C Ιαγουρ/N-NS 
+ καὶ/C Κινα/N-NS καὶ/C Διμωνα/N-NS καὶ/C Αδαδα/N-NS 
+ καὶ/C Κεδες/N-NS καὶ/C Ιθναζιφ/N-NS 
+ καὶ/C Τελεμ/N-NS καὶ/C Βαλωθ/N-NS 
+ καὶ/C πόλις/N3I-NSF Ασερων/N-GS αὕτη/RD-NSF Ασωρ/N-NS 
+ Αμαμ/N-NS καὶ/C Σαμαα/N-NS καὶ/C Μωλαδα/N-NS 
+ καὶ/C Ασεργαδδα/N-NS καὶ/C Βαιθφαλεθ/N-NS 
+ καὶ/C Ασαρσουλα/N-NS καὶ/C Βηρσαβεε/N-NS καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF καὶ/C αἱ/RA-NPF ἐπαύλεις/N3I-NPF αὐτῶν/RD-GPF 
+ Βααλα/N-NS καὶ/C Αυιμ/N-NS καὶ/C Ασεμ/N-NS 
+ καὶ/C Ελθωδαδ/N-NS καὶ/C Χασιλ/N-NS καὶ/C Ερμα/N-NS 
+ καὶ/C Σικελεγ/N-NS καὶ/C Μεδεβηνα/N-NS καὶ/C Σανσαννα/N-NS 
+ καὶ/C Λαβωθ/N-NS καὶ/C Σελεϊμ/N-NS καὶ/C Ρεμμων/N-NS πόλεις/N3I-NPF εἴκοσι/M καὶ/C ἐννέα/M καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ ἐν/P τῇ/RA-DSF πεδινῇ/A1-DSF Εσθαολ/N-NS καὶ/C Σαραα/N-NS καὶ/C Ασνα/N-NS 
+ καὶ/C Ραμεν/N-NS καὶ/C Ζανω/N-NS καὶ/C Αδιαθαϊμ/N-NS καὶ/C Ηναϊμ/N-NS 
+ καὶ/C Ιεριμουθ/N-NS καὶ/C Οδολλαμ/N-NS καὶ/C Νεμρα/N-NS καὶ/C Σωχω/N-NS καὶ/C Αζηκα/N-NS 
+ καὶ/C Σαργαριμ/N-NS καὶ/C Γαδηρα/N-NS καὶ/C αἱ/RA-NPF ἐπαύλεις/N3I-NPF αὐτῆς/RD-GSF πόλεις/N3I-NPF δέκα/M τέσσαρες/A3-NPM καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ Σενναν/N-NS καὶ/C Αδασα/N-NS καὶ/C Μαγδαλγαδ/N-NS 
+ καὶ/C Δαλααν/N-NS καὶ/C Μασφα/N-NS καὶ/C Ιεχθαηλ/N-NS 
+ καὶ/C Λαχις/N-NS καὶ/C Βαζκαθ/N-NS καὶ/C Αγλων/N-NS 
+ καὶ/C Χαββα/N-NS καὶ/C Λαμας/N-NS καὶ/C Χαθλως/N-NS 
+ καὶ/C Γαδηρωθ/N-NS καὶ/C Βηθδαγων/N-NS καὶ/C Νωμα/N-NS καὶ/C Μακηδα/N-NS πόλεις/N3I-NPF δεκαὲξ/M καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ Λεβνα/N-NS καὶ/C Αθερ/N-NS 
+ καὶ/C Ιεφθα/N-NS καὶ/C Ασεννα/N-NS καὶ/C Νεσιβ/N-NS 
+ καὶ/C Κεϊλα/N-NS καὶ/C Αχζιβ/N-NS καὶ/C Μαρησα/N-NS καὶ/C Εδωμ/N-NSF πόλεις/N3I-NPF ἐννέα/M καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ Ακκαρων/N-NS καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῆς/RD-GSF καὶ/C αἱ/RA-NPF ἐπαύλεις/N3I-NPF αὐτῆς/RD-GSF 
+ καὶ/C ἀπὸ/P Ακκαρων/N-GS Ιεμναι/N-NS καὶ/C πᾶσαι/A1S-NPF ὅσαι/A1-NPF εἰσὶν/V9-PAI3P πλησίον/D Ασδωδ/N-GS καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF 
+ αὐτῆς/RD-GSF καὶ/C αἱ/RA-NPF ἐπαύλεις/N3I-NPF αὐτῆς/RD-GSF Γάζα/N1A-NSF καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῆς/RD-GSF καὶ/C αἱ/RA-NPF ἐπαύλεις/N3I-NPF αὐτῆς/RD-GSF ἕως/P τοῦ/RA-GSM χειμάρρου/N2-GSM Αἰγύπτου/N2-GSF καὶ/C ἡ/RA-NSF θάλασσα/N1S-NSF ἡ/RA-NSF μεγάλη/A1-NSF διορίζει/V1-PAI3S 
+ καὶ/C ἐν/P τῇ/RA-DSF ὀρεινῇ/N1-DSF Σαφιρ/N-NS καὶ/C Ιεθερ/N-NS καὶ/C Σωχω/N-NS 
+ καὶ/C Ρεννα/N-NS πόλις/N3I-NSF γραμμάτων/N3M-GPN αὕτη/RD-NSF ἐστὶν/V9-PAI3S Δαβιρ/N-NS 
+ καὶ/C Ανωβ/N-NS καὶ/C Εσθεμω/N-NS καὶ/C Ανιμ/N-NS 
+ καὶ/C Γοσομ/N-NS καὶ/C Χιλουων/N-NS καὶ/C Γηλων/N-NS πόλεις/N3I-NPF δέκα/M καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ Ερεβ/N-NS καὶ/C Εσαν/N-NS καὶ/C Ρουμα/N-NS 
+ καὶ/C Ιανουμ/N-NS καὶ/C Βαιθθαπφουε/N-NS καὶ/C Αφακα/N-NS 
+ καὶ/C Χαμματα/N-NS καὶ/C πόλις/N3I-NSF Αρβο/N-NS αὕτη/RD-NSF ἐστὶν/V9-PAI3S Χεβρων/N-NS καὶ/C Σιωρ/N-NS πόλεις/N3I-NPF ἐννέα/M καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ Μαων/N-NS καὶ/C Χερμελ/N-NS καὶ/C Ζιφ/N-NS καὶ/C Ιεττα/N-NS 
+ καὶ/C Ιεζραελ/N-NS καὶ/C Ιεκδααμ/N-NS καὶ/C Ζανωακιμ/N-NS 
+ καὶ/C Γαβαα/N-NS καὶ/C Θαμνα/N-NS πόλεις/N3I-NPF ἐννέα/M καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ Αλουλ/N-NS καὶ/C Βαιθσουρ/N-NS καὶ/C Γεδωρ/N-NS 
+ καὶ/C Μαρωθ/N-NS καὶ/C Βαιθανωθ/N-NS καὶ/C Ελθεκεν/N-NS πόλεις/N3I-NPF ἓξ/M καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ Θεκω/N-NS καὶ/C Εφραθα/N-NS αὕτη/RD-NSF ἐστὶν/V9-PAI3S Βηθλεεμ/N-NS καὶ/C Φαγωρ/N-NS καὶ/C Αιταμ/N-NS καὶ/C Κουλον/N-NS καὶ/C Ταταμι/N-NS καὶ/C Σωρης/N-NS καὶ/C Καρεμ/N-NS καὶ/C Γαλλιμ/N-NS καὶ/C Βαιθηρ/N-NS καὶ/C Μανοχω/N-NS πόλεις/N3I-NPF ἕνδεκα/M καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ Καριαθβααλ/N-NS αὕτη/RD-NSF πόλις/N3I-NSF Ιαριμ/N-GS καὶ/C Αρεββα/N-NS πόλεις/N3I-NPF δύο/M καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF καὶ/C αἱ/RA-NPF ἐπαύλεις/N3I-NPF αὐτῶν/RD-GPF 
+ Βαδδαργις/N-NS καὶ/C Βηθαραβα/N-NS καὶ/C Μαδων/N-NS καὶ/C Σοχοχα/N-NS 
+ καὶ/C Νεβσαν/N-NS καὶ/C αἱ/RA-NPF πόλεις/N3I-NPF ἁλῶν/N3-GPM καὶ/C Ηνγαδδι/N-NS πόλεις/N3I-NPF ἑπτὰ/M καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ Βηθαγλα/N-NS καὶ/C Αμεκκασις/N-NS 
+ καὶ/C Βαιθαραβα/N-NS καὶ/C Σεμριμ/N-NS καὶ/C Βηθηλ/N-NS 
+ καὶ/C Αυιμ/N-NS καὶ/C Αφαρ/N-NS καὶ/C Αφρα/N-NS 
+ καὶ/C Αικαρεν/N-NS καὶ/C Καφηραμμιν/N-NS καὶ/C Γαβαα/N-NSF πόλεις/N3I-NPF δώδεκα/M καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ Γαβαων/N-NS καὶ/C Ραμα/N-NS καὶ/C Βηρωθ/N-NS 
+ καὶ/C Μασφα/N-NS καὶ/C Χεφιρα/N-NS καὶ/C Αμωσα/N-NS 
+ καὶ/C Ρεκεμ/N-NS καὶ/C Ιερφαηλ/N-NS καὶ/C Θαραλα/N-NS 
+ καὶ/C Σηλαλεφ/N-NS καὶ/C Ιεβους/N-NS αὕτη/RD-NSF ἐστὶν/V9-PAI3S Ιερουσαλημ/N-NSF καὶ/C Γαβααθ/N-NS καὶ/C πόλις/N3I-NSF Ιαριμ/N-NS πόλεις/N3I-NPF δέκα/M τρεῖς/A3-NPM καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF αὕτη/RD-NSF ἡ/RA-NSF κληρονομία/N1A-NSF υἱῶν/N2-GPM Βενιαμιν/N-NSM κατὰ/P δήμους/N2-APM αὐτῶν/RD-GPF 
+ καὶ/C ἐξῆλθεν/VBI-AAI3S ὁ/RA-NSM κλῆρος/N2-NSM ὁ/RA-NSM δεύτερος/A1A-NSM τῷ/RA-DSM Συμεων/N-DSM καὶ/C ἐγενήθη/VCI-API3S ἡ/RA-NSF κληρονομία/N1A-NSF αὐτῶν/RD-GPM ἀνὰ/P μέσον/A1-ASM κλήρου/N2-GSM υἱῶν/N2-GPM Ιουδα/N-GSM 
+ καὶ/C ἐγενήθη/VCI-API3S ὁ/RA-NSM κλῆρος/N2-NSM αὐτῶν/RD-GPM Βηρσαβεε/N-NS καὶ/C Σαβεε/N-NS καὶ/C Μωλαδα/N-NS 
+ καὶ/C Ασερσουαλ/N-NS καὶ/C Βαθουλ/N-NS καὶ/C Βωλα/N-NS καὶ/C Ασομ/N-NS 
+ καὶ/C Ελθουλαδ/N-NS καὶ/C Ερμα/N-NS 
+ καὶ/C Σεκελα/N-NS καὶ/C Βαιθαμμαρχαβωθ/N-NS καὶ/C Ασερσουσιμ/N-NS 
+ καὶ/C Βαιθλαβαθ/N-NS καὶ/C οἱ/RA-NPM ἀγροὶ/N2-NPM αὐτῶν/RD-GPF πόλεις/N3I-NPF δέκα/M τρεῖς/A3-NPF καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ Αιν/N-NS καὶ/C Ρεμμων/N-NS καὶ/C Εθερ/N-NS καὶ/C Ασαν/N-NS πόλεις/N3I-NPF τέσσαρες/A3-NPF καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPF 
+ αἱ/RA-NPF περικύκλῳ/D τῶν/RA-GPF πόλεων/N3I-GPF τούτων/RD-GPF ἕως/P Βααλεθβηρραμωθ/N-GS πορευομένων/V1-PMPGPM Ιαμεθ/N-GS κατὰ/P λίβα/N3-ASM αὕτη/RD-NSF ἡ/RA-NSF κληρονομία/N1A-NSF φυλῆς/N1-GSF υἱῶν/N2-GPM Συμεων/N-GSM κατὰ/P δήμους/N2-APM αὐτῶν/RD-GPM 
+ ἀπὸ/P τοῦ/RA-GSM κλήρου/N2-GSM Ιουδα/N-GSM ἡ/RA-NSF κληρονομία/N1A-NSF φυλῆς/N1-GSF υἱῶν/N2-GPM Συμεων/N-GSM ὅτι/C ἐγενήθη/VCI-API3S μερὶς/N3D-NSF υἱῶν/N2-GPM Ιουδα/N-GSM μείζων/A3-NSMC τῆς/RA-GSF αὐτῶν/RD-GPM καὶ/C ἐκληρονόμησαν/VAI-AAI3P οἱ/RA-NPM υἱοὶ/N2-NPM Συμεων/N-GSM ἐν/P μέσῳ/A1-DSM τοῦ/RA-GSM κλήρου/N2-GSM αὐτῶν/RD-GPM 
+ καὶ/C ἐξῆλθεν/VBI-AAI3S ὁ/RA-NSM κλῆρος/N2-NSM ὁ/RA-NSM τρίτος/A1-NSM τῷ/RA-DSM Ζαβουλων/N-DSM κατὰ/P δήμους/N2-APM αὐτῶν/RD-GPM καὶ/C ἔσται/VF-FMI3S τὰ/RA-NPN ὅρια/N2N-NPN τῆς/RA-GSF κληρονομίας/N1A-GSF αὐτῶν/RD-GPM ἕως/P Σαριδ/N-GS 
+ τὰ/RA-NPN ὅρια/N2N-NPN αὐτῶν/RD-GPF ἡ/RA-NSF θάλασσα/N1S-NSF καὶ/C Μαραλα/N-NS καὶ/C συνάψει/VF-FAI3S ἐπὶ/P Δαβασθαι/N-AS εἰς/P τὴν/RA-ASF φάραγγα/N3G-ASF ἥ/RR-NSF ἐστιν/V9-PAI3S κατὰ/P πρόσωπον/N2N-ASN Ιεκναμ/N-GS 
+ καὶ/C ἀναστρέψει/VF-FAI3S ἀπὸ/P Σαριδ/N-GS ἐξ/P ἐναντίας/A1A-GSF ἀπὸ/P ἀνατολῶν/N1-GPF Σαμς/N-GS ἐπὶ/P τὰ/RA-APN ὅρια/N2N-APN Χασαλωθ/N-GS Θαβωρ/N-GS καὶ/C διελεύσεται/VF-FMI3S ἐπὶ/P Δαβραθ/N-AS καὶ/C προσαναβήσεται/VF-FMI3S ἐπὶ/P Ιαφαγαι/N-AS 
+ καὶ/C ἐκεῖθεν/D περιελεύσεται/VF-FMI3S ἐξ/P ἐναντίας/A1A-GSF ἐπ'/P ἀνατολὰς/N1-APF ἐπὶ/P Γεθθα/N-AS ἐπὶ/P πόλιν/N3I-ASF Κασιμ/N-AS καὶ/C διελεύσεται/VF-FMI3S ἐπὶ/P Ρεμμων/N-AS Αμμαθαριμ/N-AS Αννουα/N-AS 
+ καὶ/C περιελεύσεται/VF-FMI3S ἐπὶ/P τὰ/RA-APN ὅρια/N2N-APN βορρᾶ/N1T-GSM ἐπὶ/P Ενναθωθ/N-AS καὶ/C ἔσται/VF-FMI3S ἡ/RA-NSF διέξοδος/N2-NSF αὐτῶν/RD-GPF ἐπὶ/P Γαιιεφθαηλ/N-AS 
+ καὶ/C Κατταθ/N-AS καὶ/C Νααλωλ/N-AS καὶ/C Σεμρων/N-AS καὶ/C Ιαδηλα/N-AS καὶ/C Βαιθλεεμ/N-AS 
+ αὕτη/RD-NSF ἡ/RA-NSF κληρονομία/N1A-NSF τῆς/RA-GSF φυλῆς/N1-GSF υἱῶν/N2-GPM Ζαβουλων/N-GSM κατὰ/P δήμους/N2-APM αὐτῶν/RD-GPM αἱ/RA-NPF πόλεις/N3I-NPF αὗται/RD-NPF καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPM 
+ καὶ/C τῷ/RA-DSM Ισσαχαρ/N-DSM ἐξῆλθεν/VBI-AAI3S ὁ/RA-NSM κλῆρος/N2-NSM ὁ/RA-NSM τέταρτος/A1-NSM 
+ καὶ/C ἐγενήθη/VCI-API3S τὰ/RA-NPN ὅρια/N2N-NPN αὐτῶν/RD-GPM Ιεζραελ/N-NS καὶ/C Αχασελωθ/N-NS καὶ/C Σουναμ/N-NS 
+ καὶ/C Αφεραϊμ/N-NS καὶ/C Σιαν/N-NS καὶ/C Ρεναθ/N-NS καὶ/C Αναρεθ/N-NS 
+ καὶ/C Ραββωθ/N-NS καὶ/C Κεσιων/N-NS καὶ/C Αεμε/N-NS 
+ καὶ/C Ραμαθ/N-NS καὶ/C Ηνγαννιμ/N-NS καὶ/C Ηναδδα/N-NS καὶ/C Βαιθφασης/N-NS 
+ καὶ/C συνάψει/VF-FAI3S τὰ/RA-APN ὅρια/N2N-APN ἐπὶ/P Θαβωθ/N-AS καὶ/C ἐπὶ/P Σασιμα/N-AS κατὰ/P θάλασσαν/N1S-ASF καὶ/C Βαιθσμας/N-AS καὶ/C ἔσται/VF-FMI3S ἡ/RA-NSF διέξοδος/N2-NSF τῶν/RA-GPN ὁρίων/N2N-GPN αὐτῶν/RD-GPF ὁ/RA-NSM Ιορδάνης/N1M-NSM 
+ αὕτη/RD-NSF ἡ/RA-NSF κληρονομία/N1A-NSF φυλῆς/N1-GSF υἱῶν/N2-GPM Ισσαχαρ/N-GSM κατὰ/P δήμους/N2-APM αὐτῶν/RD-GPM αἱ/RA-NPF πόλεις/N3I-NPF καὶ/C αἱ/RA-NPF ἐπαύλεις/N3I-NPF αὐτῶν/RD-GPM 
+ καὶ/C ἐξῆλθεν/VBI-AAI3S ὁ/RA-NSM κλῆρος/N2-NSM ὁ/RA-NSM πέμπτος/A1-NSM Ασηρ/N-GSM κατὰ/P δήμους/N2-APM αὐτῶν/RD-GPM 
+ καὶ/C ἐγενήθη/VCI-API3S τὰ/RA-NPN ὅρια/N2N-NPN αὐτῶν/RD-GPM Χελκαθ/N-NS καὶ/C Οολι/N-NS καὶ/C Βατνε/N-NS καὶ/C Αχσαφ/N-NS 
+ καὶ/C Αμαδ/N-NS καὶ/C Μασαλ/N-NS καὶ/C συνάψει/VF-FAI3S τῷ/RA-DS Καρμήλῳ/N2-DS κατὰ/P θάλασσαν/N1S-ASF καὶ/C τῷ/RA-DSM Σιωρ/N-DSM καὶ/C Λαβαναθ/N-DS 
+ καὶ/C ἐπιστρέψει/VF-FAI3S ἀπ'/P ἀνατολῶν/N1-GPF ἡλίου/N2-GSM Βηθδαγων/N-DS καὶ/C συνάψει/VF-FAI3S τῷ/RA-DSM Ζαβουλων/N-DSM καὶ/C ἐν/P Γαι/N-DS Ιεφθαηλ/N-GSM κατὰ/P βορρᾶν/N1T-ASM καὶ/C εἰσελεύσεται/VF-FMI3S τὰ/RA-APN ὅρια/N2N-APN Σαφθαβηθαεμεκ/N-GS καὶ/C πορεύσεται/VF-FMI3S τὸ/RA-NSN μεθόριον/N2N-NSN Ανιηλ/N-GS καὶ/C διελεύσεται/VF-FMI3S εἰς/P Χαβωλ/N-AS ἀπὸ/P ἀριστερῶν/A1A-GPM 
+ καὶ/C Αχραν/N-NS καὶ/C Ροωβ/N-NS καὶ/C Αμων/N-NS καὶ/C Κανα/N-NS ἕως/P Σιδῶνος/N3W-GSF τῆς/RA-GSF μεγάλης/A1-GSF 
+ καὶ/C ἀναστρέψει/VF-FAI3S τὰ/RA-NPN ὅρια/N2N-NPN εἰς/P Ραμα/N-AS καὶ/C ἕως/P πόλεως/N3I-GSF ὀχυρώματος/N3M-GSN τῶν/RA-GPM Τυρίων/N2-GPM καὶ/C ἀναστρέψει/VF-FAI3S τὰ/RA-NPN ὅρια/N2N-NPN ἐπὶ/P Ωσα/N-AS καὶ/C ἔσται/VF-FMI3S ἡ/RA-NSF διέξοδος/N2-NSF αὐτοῦ/RD-GSM ἡ/RA-NSF θάλασσα/N1S-NSF καὶ/C ἀπὸ/P τοῦ/RA-GSN σχοινίσματος/N3W-GSN Αχζιφ/N-NS 
+ καὶ/C Αμμα/N-NS καὶ/C Αφεκ/N-NS καὶ/C Ραωβ/N-NS πόλεις/N3I-NPF εἴκοσι/M δύο/M 
+ αὕτη/RD-NSF ἡ/RA-NSF κληρονομία/N1A-NSF φυλῆς/N1-GSF υἱῶν/N2-GPM Ασηρ/N-GSM κατὰ/P δήμους/N2-APM αὐτῶν/RD-GPM πόλεις/N3I-NPF αὐτῶν/RD-GPM καὶ/C αἱ/RA-NPF κῶμαι/N1-NPF αὐτῶν/RD-GPM 
+ καὶ/C τῷ/RA-DSM Νεφθαλι/N-DSM ἐξῆλθεν/VBI-AAI3S ὁ/RA-NSM κλῆρος/N2-NSM ὁ/RA-NSM ἕκτος/A1-NSM 
+ καὶ/C ἐγένετο/VBI-AMI3S τὰ/RA-NPN ὅρια/N2N-NPN αὐτῶν/RD-GPM Μεελεφ/N-NS καὶ/C Μαηλων/N-NS καὶ/C Βεσενανιμ/N-NS καὶ/C Αρμαι/N-NS καὶ/C Νακεβ/N-NS καὶ/C Ιαβνηλ/N-NS ἕως/P Λακου/N2-GS καὶ/C ἐγενήθησαν/VCI-API3P αἱ/RA-NPF διέξοδοι/N2-NPF αὐτοῦ/RD-GSM ὁ/RA-NSM Ιορδάνης/N1M-NSM 
+ καὶ/C ἐπιστρέψει/VF-FAI3S τὰ/RA-APN ὅρια/N2N-APN ἐπὶ/P θάλασσαν/N1S-ASF Αζανωθ/N-AS Θαβωρ/N-AS καὶ/C διελεύσεται/VF-FMI3S ἐκεῖθεν/D εἰς/P Ικωκ/N-AS καὶ/C συνάψει/VF-FAI3S τῷ/RA-DSM Ζαβουλων/N-DSM ἀπὸ/P νότου/N2-GSM καὶ/C τῷ/RA-DSM Ασηρ/N-DSM συνάψει/VF-FAI3S κατὰ/P θάλασσαν/N1S-ASF καὶ/C ὁ/RA-NSM Ιορδάνης/N1M-NSM ἀπ'/P ἀνατολῶν/N1-GPF ἡλίου/N2-GSM 
+ καὶ/C πόλεις/N3I-NPF τειχήρεις/A3H-NPM τῶν/RA-GPM Τυρίων/N2-GPM Τύρος/N2-NSM καὶ/C Αμαθ/N-NS καὶ/C Ρεκκαθ/N-NS καὶ/C Χενερεθ/N-NS 
+ καὶ/C Αδαμι/N-NS καὶ/C Ραμα/N-NS καὶ/C Ασωρ/N-NS 
+ καὶ/C Κεδες/N-NS καὶ/C Εδραϊ/N-NS καὶ/C πηγὴ/N1-NSF Ασορ/N-GS 
+ καὶ/C Ιαριων/N-NS καὶ/C Μαγδαλιηλ/N-NS Ωραμ/N-NS καὶ/C Βαιθαναθ/N-NS καὶ/C Θασμους/N-NS πόλεις/N3I-NPF δέκα/M ἐννέα/M 
+ αὕτη/RD-NSF ἡ/RA-NSF κληρονομία/N1A-NSF φυλῆς/N1-GSF υἱῶν/N2-GPM Νεφθαλι/N-GSM 
+ καὶ/C τῷ/RA-DSM Δαν/N-DSM ἐξῆλθεν/VBI-AAI3S ὁ/RA-NSM κλῆρος/N2-NSM ὁ/RA-NSM ἕβδομος/A1-NSM 
+ καὶ/C ἐγενήθη/VCI-API3S τὰ/RA-NPN ὅρια/N2N-NPN αὐτῶν/RD-GPM Σαραα/N-NS καὶ/C Εσθαολ/N-NS καὶ/C πόλις/N3I-NSF Σαμες/N-GS 
+ καὶ/C Σαλαβιν/N-NS καὶ/C Ιααλων/N-NS καὶ/C Ιεθλα/N-NS 
+ καὶ/C Αιλων/N-NS καὶ/C Θαμνα/N-NS καὶ/C Ακκαρων/N-NS 
+ καὶ/C Ελθεκω/N-NS καὶ/C Γαβαθων/N-NS καὶ/C Βααλων/N-NS 
+ καὶ/C Ιουθ/N-NS καὶ/C Βανηβαρακ/N-NS καὶ/C Γεθρεμμων/N-NS 
