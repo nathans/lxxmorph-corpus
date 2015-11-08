@@ -100,7 +100,7 @@
  εἶδες/VBI-AAI2S κύριε/N2-VSM τὰς/RA-APF ταραχάς/N1-APF μου/RP-GS ἔκρινας/VAI-AAI2S τὴν/RA-ASF κρίσιν/N3I-ASF μου/RP-GS 
  εἶδες/VBI-AAI2S πᾶσαν/A1S-ASF τὴν/RA-ASF ἐκδίκησιν/N3I-ASF αὐτῶν/RD-GPM εἰς/P πάντας/A3-APM διαλογισμοὺς/N2-APM αὐτῶν/RD-GPM ἐν/P ἐμοί/RP-DS 
  ἤκουσας/VAI-AAI2S τὸν/RA-ASM ὀνειδισμὸν/N2-ASM αὐτῶν/RD-GPM πάντας/A3-APM τοὺς/RA-APM διαλογισμοὺς/N2-APM αὐτῶν/RD-GPM κατ'/P ἐμοῦ/RP-GS 
- χείλη/N3E-APN ἐπανιστανομένων/VM-SMPGPM μοι/RP-DS καὶ/C μελέτας/N1-APF αὐτῶν/RD-GPM κατ'/P ἐμοῦ/RP-GS ὅλην/A1-ASF τὴν/RA-ASF ἡμέραν/N1A-ASF 
+ χείλη/N3E-APN ἐπανιστανομένων/VM-PMPGPM μοι/RP-DS καὶ/C μελέτας/N1-APF αὐτῶν/RD-GPM κατ'/P ἐμοῦ/RP-GS ὅλην/A1-ASF τὴν/RA-ASF ἡμέραν/N1A-ASF 
  καθέδραν/N1A-ASF αὐτῶν/RD-GPM καὶ/C ἀνάστασιν/N3I-ASF αὐτῶν/RD-GPM ἐπίβλεψον/VA-AAD2S ἐπὶ/P τοὺς/RA-APM ὀφθαλμοὺς/N2-APM αὐτῶν/RD-GPM 
  ἀποδώσεις/VF-FAI2S αὐτοῖς/RD-DPM ἀνταπόδομα/N3M-ASN κύριε/N2-VSM κατὰ/P τὰ/RA-APN ἔργα/N2N-APN τῶν/RA-GPF χειρῶν/N3-GPF αὐτῶν/RD-GPM 
  ἀποδώσεις/VF-FAI2S αὐτοῖς/RD-DPM ὑπερασπισμὸν/N2-ASM καρδίας/N1A-GSF μόχθον/N2-ASM σου/RP-GS αὐτοῖς/RD-DPM 

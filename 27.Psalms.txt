@@ -1651,7 +1651,7 @@
  ὡμοιώθην/VCI-API1S πελεκᾶνι/N3-DSM ἐρημικῷ/A1-DSM ἐγενήθην/VCI-API1S ὡσεὶ/X νυκτικόραξ/N3K-NSM ἐν/P οἰκοπέδῳ/N2N-DSN 
  ἠγρύπνησα/VAI-AAI1S καὶ/C ἐγενήθην/VCI-API1S ὡσεὶ/X στρουθίον/N2N-ASN μονάζον/V1-PAPASN ἐπὶ/P δώματι/N3M-DSN 
  ὅλην/A1-ASF τὴν/RA-ASF ἡμέραν/N1A-ASF ὠνείδιζόν/V1I-IAI3P με/RP-AS οἱ/RA-NPM ἐχθροί/N2-NPM μου/RP-GS καὶ/C οἱ/RA-NPM ἐπαινοῦντές/V2-PAPNPM με/RP-AS κατ'/P ἐμοῦ/RP-GS ὤμνυον/V1I-IAI3P 
- ὅτι/C σποδὸν/N2-ASF ὡσεὶ/X ἄρτον/N2-ASM ἔφαγον/VBI-AAI1S καὶ/C τὸ/RA-ASN πόμα/N3-ASN μου/RP-GS μετὰ/P κλαυθμοῦ/N2-GSM ἐκίρνων/V3I-IAPNSM 
+ ὅτι/C σποδὸν/N2-ASF ὡσεὶ/X ἄρτον/N2-ASM ἔφαγον/VBI-AAI1S καὶ/C τὸ/RA-ASN πόμα/N3-ASN μου/RP-GS μετὰ/P κλαυθμοῦ/N2-GSM ἐκίρνων/V3I-IAI1S 
  ἀπὸ/P προσώπου/N2N-GSN τῆς/RA-GSF ὀργῆς/N1-GSF σου/RP-GS καὶ/C τοῦ/RA-GSM θυμοῦ/N2-GSM σου/RP-GS ὅτι/C ἐπάρας/VAI-AAI2S κατέρραξάς/VAI-AAI2S με/RP-AS 
  αἱ/RA-NPF ἡμέραι/N1A-NPF μου/RP-GS ὡσεὶ/X σκιὰ/N1A-NSF ἐκλίθησαν/VCI-API3P καὶ/C ἐγὼ/RP-NS ὡσεὶ/X χόρτος/N2-NSM ἐξηράνθην/VCI-API1S 
  σὺ/RP-NS δέ/X κύριε/N2-VSM εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM μένεις/V1-PAI2S καὶ/C τὸ/RA-NSN μνημόσυνόν/N2N-NSN σου/RP-GS εἰς/P γενεὰν/N1A-ASF καὶ/C γενεάν/N1A-ASF 
@@ -1905,7 +1905,7 @@
  καὶ/C ἐγὼ/RP-NS ἐγενήθην/VCI-API1S ὄνειδος/N3E-NSN αὐτοῖς/RD-DPM εἴδοσάν/VBI-AAI3P με/RP-AS ἐσάλευσαν/VAI-AAI3P κεφαλὰς/N1-APF αὐτῶν/RD-GPM 
  βοήθησόν/VA-AAD2S μοι/RP-DS κύριε/N2-VSM ὁ/RA-NSM θεός/N2-NSM μου/RP-GS σῶσόν/VA-AAD2S με/RP-AS κατὰ/P τὸ/RA-ASN ἔλεός/N3E-ASN σου/RP-GS 
  καὶ/C γνώτωσαν/VZ-AAD3P ὅτι/C ἡ/RA-NSF χείρ/N3-NSF σου/RP-GS αὕτη/RD-NSF καὶ/C σύ/RP-NS κύριε/N2-VSM ἐποίησας/VAI-AAI2S αὐτήν/RD-ASF 
- καταράσονται/VF-FMI3P αὐτοί/RD-NPM καὶ/C σὺ/RP-NS εὐλογήσεις/VF-FAI2S οἱ/RA-NPM ἐπανιστανόμενοί/VM-XMP3PM μοι/RP-DS αἰσχυνθήτωσαν/VC-APD3P ὁ/RA-NSM δὲ/X δοῦλός/N2-NSM σου/RP-GS εὐφρανθήσεται/VC-FPI3S 
+ καταράσονται/VF-FMI3P αὐτοί/RD-NPM καὶ/C σὺ/RP-NS εὐλογήσεις/VF-FAI2S οἱ/RA-NPM ἐπανιστανόμενοί/VM-PMPNPM μοι/RP-DS αἰσχυνθήτωσαν/VC-APD3P ὁ/RA-NSM δὲ/X δοῦλός/N2-NSM σου/RP-GS εὐφρανθήσεται/VC-FPI3S 
  ἐνδυσάσθωσαν/VA-AMD3P οἱ/RA-NPM ἐνδιαβάλλοντές/V1-PAPNPM με/RP-AS ἐντροπὴν/N1-ASF καὶ/C περιβαλέσθωσαν/VB-AMD3P ὡσεὶ/X διπλοΐδα/N3D-ASF αἰσχύνην/N1-ASF αὐτῶν/RD-GPM 
  ἐξομολογήσομαι/VF-FMI1S τῷ/RA-DSM κυρίῳ/N2-DSM σφόδρα/D ἐν/P τῷ/RA-DSN στόματί/N3M-DSN μου/RP-GS καὶ/C ἐν/P μέσῳ/A1-DSM πολλῶν/A1-GPM αἰνέσω/VA-AAS1S αὐτόν/RD-ASM 
  ὅτι/C παρέστη/VHI-AAI3S ἐκ/P δεξιῶν/A1A-GPM πένητος/N3T-GSM τοῦ/RA-GSN σῶσαι/VA-AAN ἐκ/P τῶν/RA-GPM καταδιωκόντων/V1-PAPGPM τὴν/RA-ASF ψυχήν/N1-ASF μου/RP-GS 
@@ -2523,7 +2523,7 @@
  αἰνεῖτε/V2-PAD2P αὐτὸν/RP-ASM ἐπὶ/P ταῖς/RA-DPF δυναστείαις/N1A-DPF αὐτοῦ/RP-GSM αἰνεῖτε/V2-PAD2P αὐτὸν/RP-ASM κατὰ/P τὸ/RA-ASN πλῆθος/N3E-ASN τῆς/RA-GSF μεγαλωσύνης/N1-GSF αὐτοῦ/RP-GSM 
  αἰνεῖτε/V2-PAD2P αὐτὸν/RP-ASM ἐν/P ἤχῳ/N2-DSM σάλπιγγος/N3G-GSF αἰνεῖτε/V2-PAD2P αὐτὸν/RP-ASM ἐν/P ψαλτηρίῳ/N2N-DSN καὶ/C κιθάρᾳ/N1A-DSF 
  αἰνεῖτε/V2-PAD2P αὐτὸν/RP-ASM ἐν/P τυμπάνῳ/N2N-DSN καὶ/C χορῷ/N2-DSM αἰνεῖτε/V2-PAD2P αὐτὸν/RP-ASM ἐν/P χορδαῖς/N1-DPF καὶ/C ὀργάνῳ/N2N-DSN 
- αἰνεῖτε/V2-PAD2P αὐτὸν/RP-ASM ἐν/P κυμβάλοις/N2N-DPN εὐήχοις/A1B-DPN αἰνεῖτε/V2-PAD2P αὐτὸν/RP-ASM ἐν/P κυμβάλοις/N2N-DPN ἀλαλαγμοῦ/2-GSM 
+ αἰνεῖτε/V2-PAD2P αὐτὸν/RP-ASM ἐν/P κυμβάλοις/N2N-DPN εὐήχοις/A1B-DPN αἰνεῖτε/V2-PAD2P αὐτὸν/RP-ASM ἐν/P κυμβάλοις/N2N-DPN ἀλαλαγμοῦ/N2-GSM 
  πᾶσα/A1S-NSF πνοὴ/N1-NSF αἰνεσάτω/VA-AAD3S τὸν/RA-ASM κύριον/N2-ASM αλληλουια/I 
  οὗτος/RD-NSM ὁ/RA-NSM ψαλμὸς/N2-NSM ἰδιόγραφος/A1B-NSM εἰς/P Δαυιδ/N-ASM καὶ/C ἔξωθεν/D τοῦ/RA-GSM ἀριθμοῦ/N2-GSM ὅτε/D ἐμονομάχησεν/VAI-AAI3S τῷ/RA-DSM Γολιαδ/N-DSM μικρὸς/A1A-NSM ἤμην/V9-IMI1S ἐν/P τοῖς/RA-DPM ἀδελφοῖς/N2-DPM μου/RP-GS καὶ/C νεώτερος/A1A-NSMC ἐν/P τῷ/RA-DSM οἴκῳ/N2-DSM τοῦ/RA-GSM πατρός/N3-GSM μου/RP-GS ἐποίμαινον/V1I-IAI1P τὰ/RA-APN πρόβατα/N2N-APN τοῦ/RA-GSM πατρός/N3-GSM μου/RP-GS 
  αἱ/RA-NPF χεῖρές/N3-NPF μου/RP-GS ἐποίησαν/VAI-AAI3P ὄργανον/N2N-ASN οἱ/RA-NPM δάκτυλοί/N2-NPM μου/RP-GS ἥρμοσαν/VAI-AAI3P ψαλτήριον/N2N-ASN 
