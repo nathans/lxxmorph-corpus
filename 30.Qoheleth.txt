@@ -1,4 +1,4 @@
-ῤήματα/N3M-NPN Ἐκκλησιαστοῦ/N1M-GSM υἱοῦ/N2-GSM Δαυιδ/N-GSM βασιλέως/N3V-GSM Ισραηλ/N-GSM ἐν/P Ιερουσαλημ/N-DSF 
+ῥήματα/N3M-NPN Ἐκκλησιαστοῦ/N1M-GSM υἱοῦ/N2-GSM Δαυιδ/N-GSM βασιλέως/N3V-GSM Ισραηλ/N-GSM ἐν/P Ιερουσαλημ/N-DSF 
  ματαιότης/N3T-NSF ματαιοτήτων/N3T-GPF εἶπεν/VBI-AAI3S ὁ/RA-NSM Ἐκκλησιαστής/N1M-NSM ματαιότης/N3T-NSM ματαιοτήτων/N3T-GPF τὰ/RA-NPN πάντα/A3-NPN ματαιότης/N3T-NSF 
  τίς/RI-NSF περισσεία/N1A-NSF τῷ/RA-DSM ἀνθρώπῳ/N2-DSM ἐν/P παντὶ/A3-DSM μόχθῳ/N2-DSM αὐτοῦ/RD-GSM ᾧ/RR-DSM μοχθεῖ/V2-PAI3S ὑπὸ/P τὸν/RA-ASM ἥλιον/N2-ASM 
  γενεὰ/N1A-NSF πορεύεται/V1-PMI3S καὶ/C γενεὰ/N1A-NSF ἔρχεται/V1-PMI3S καὶ/C ἡ/RA-NSF γῆ/N1-NSF εἰς/P τὸν/RA-ASM αἰῶνα/N3W-ASM ἕστηκεν/VXI-XAI3S 
@@ -48,7 +48,7 @@
  καιρὸς/N2-NSM τοῦ/RA-GSN κλαῦσαι/VA-AAN καὶ/C καιρὸς/N2-NSM τοῦ/RA-GSN γελάσαι/VA-AAN καιρὸς/N2-NSM τοῦ/RA-GSN κόψασθαι/VA-AMN καὶ/C καιρὸς/N2-NSM τοῦ/RA-GSN ὀρχήσασθαι/VA-AMN 
  καιρὸς/N2-NSM τοῦ/RA-GSN βαλεῖν/VB-AAN λίθους/N2-APM καὶ/C καιρὸς/N2-NSM τοῦ/RA-GSN συναγαγεῖν/VB-AAN λίθους/N2-APM καιρὸς/N2-NSM τοῦ/RA-GSN περιλαβεῖν/VB-AAN καὶ/C καιρὸς/N2-NSM τοῦ/RA-GSM μακρυνθῆναι/VC-APN ἀπὸ/P περιλήμψεως/N3I-GSF 
  καιρὸς/N2-NSM τοῦ/RA-GSN ζητῆσαι/VA-AAN καὶ/C καιρὸς/N2-NSM τοῦ/RA-GSN ἀπολέσαι/VA-AAN καιρὸς/N2-NSM τοῦ/RA-GSN φυλάξαι/VA-AAN καὶ/C καιρὸς/N2-NSM τοῦ/RA-GSN ἐκβαλεῖν/VB-AAN 
- καιρὸς/N2-NSM τοῦ/RA-GSN ῤῆξαι/VA-AAN καὶ/C καιρὸς/N2-NSM τοῦ/RA-GSN ῤάψαι/VA-AAN καιρὸς/N2-NSM τοῦ/RA-GSN σιγᾶν/V3-PAN καὶ/C καιρὸς/N2-NSM τοῦ/RA-GSN λαλεῖν/V2-PAN 
+ καιρὸς/N2-NSM τοῦ/RA-GSN ῥῆξαι/VA-AAN καὶ/C καιρὸς/N2-NSM τοῦ/RA-GSN ῥάψαι/VA-AAN καιρὸς/N2-NSM τοῦ/RA-GSN σιγᾶν/V3-PAN καὶ/C καιρὸς/N2-NSM τοῦ/RA-GSN λαλεῖν/V2-PAN 
  καιρὸς/N2-NSM τοῦ/RA-GSN φιλῆσαι/VA-AAN καὶ/C καιρὸς/N2-NSM τοῦ/RA-GSN μισῆσαι/VA-AAN καιρὸς/N2-NSM πολέμου/N2-GSM καὶ/C καιρὸς/N2-NSM εἰρήνης/N1-GSF 
  τίς/RI-NSF περισσεία/N1A-NSF τοῦ/RA-GSM ποιοῦντος/V2-PAPGSM ἐν/P οἷς/RR-DPM αὐτὸς/RD-NSM μοχθεῖ/V2-PAI3S 
  εἶδον/VBI-AAI1S σὺν/P τὸν/RA-ASM περισπασμόν/N2-ASM ὃν/RR-ASM ἔδωκεν/VAI-AAI3S ὁ/RA-NSM θεὸς/N2-NSM τοῖς/RA-DPM υἱοῖς/N2-DPM τοῦ/RA-GSM ἀνθρώπου/N2-GSM τοῦ/RA-GSN περισπᾶσθαι/V3-PMN ἐν/P αὐτῷ/RD-DSM 
@@ -141,11 +141,11 @@
  ἰδὲ/VB-AAD2S τοῦτο/RD-ASN εὗρον/VB-AAI1S εἶπεν/VBI-AAI3S ὁ/RA-NSM Ἐκκλησιαστής/N1M-NSM μία/A1A-NSF τῇ/RA-DSF μιᾷ/A1A-DSF τοῦ/RA-GSN εὑρεῖν/VB-AAN λογισμόν/N2-ASM 
  ὃν/RR-ASM ἔτι/D ἐζήτησεν/VAI-AAI3S ἡ/RA-NSF ψυχή/N1-NSF μου/RP-GS καὶ/C οὐχ/D εὗρον/VB-AAI1S ἄνθρωπον/N2-ASM ἕνα/A3-ASM ἀπὸ/P χιλίων/A1A-GPM εὗρον/VB-AAI1S καὶ/C γυναῖκα/N3K-ASF ἐν/P πᾶσι/A3-DPM τούτοις/RD-DPM οὐχ/D εὗρον/VB-AAI1S 
  πλὴν/D ἰδὲ/VB-AAD2S τοῦτο/RD-ASN εὗρον/VB-AAI1S ὃ/RR-NSM ἐποίησεν/VAI-AAI3S ὁ/RA-NSM θεὸς/N2-NSM σὺν/P τὸν/RA-ASM ἄνθρωπον/N2-ASM εὐθῆ/A3H-ASM καὶ/C αὐτοὶ/RD-NPM ἐζήτησαν/VAI-AAI3P λογισμοὺς/N2-APM πολλούς/A1-APM 
- τίς/RI-NSM οἶδεν/VX-XAI3S σοφούς/A1-APM καὶ/C τίς/RI-NSM οἶδεν/VX-XAI3S λύσιν/N3I-ASF ῤήματος/N3M-GSN σοφία/N1A-NSF ἀνθρώπου/N2-GSM φωτιεῖ/VF2-FAI3S πρόσωπον/N2N-ASN αὐτοῦ/RD-GSM καὶ/C ἀναιδὴς/A3H-NSM προσώπῳ/N2N-DSN αὐτοῦ/RD-GSM μισηθήσεται/VC-FPI3S 
+ τίς/RI-NSM οἶδεν/VX-XAI3S σοφούς/A1-APM καὶ/C τίς/RI-NSM οἶδεν/VX-XAI3S λύσιν/N3I-ASF ῥήματος/N3M-GSN σοφία/N1A-NSF ἀνθρώπου/N2-GSM φωτιεῖ/VF2-FAI3S πρόσωπον/N2N-ASN αὐτοῦ/RD-GSM καὶ/C ἀναιδὴς/A3H-NSM προσώπῳ/N2N-DSN αὐτοῦ/RD-GSM μισηθήσεται/VC-FPI3S 
  στόμα/N3M-ASN βασιλέως/N3V-GSM φύλαξον/VA-AAD2S καὶ/C περὶ/P λόγου/N2-GSM ὅρκου/N2-GSM θεοῦ/N2-GSM μὴ/D σπουδάσῃς/VA-AAS2S 
  ἀπὸ/P προσώπου/N2N-GSN αὐτοῦ/RD-GSM πορεύσῃ/VA-AMS2S μὴ/D στῇς/VH-AAS2S ἐν/P λόγῳ/N2-DSM πονηρῷ/A1A-DSM ὅτι/C πᾶν/A3-ASN ὃ/RR-ASN ἐὰν/C θελήσῃ/VA-AAS3S ποιήσει/VF-FAI3S 
  καθὼς/D λαλεῖ/V2-PAI3S βασιλεὺς/N3V-NSM ἐξουσιάζων/V1-PAPNSM καὶ/C τίς/RI-NSM ἐρεῖ/VF2-FAI3S αὐτῷ/RD-DSM τί/RI-ASN ποιήσεις/VF-FAI2S 
- ὁ/RA-NSM φυλάσσων/V1-PAPNSM ἐντολὴν/N1-ASF οὐ/D γνώσεται/VF-FMI3S ῤῆμα/N3M-ASN πονηρόν/A1A-ASN καὶ/C καιρὸν/N2-ASM κρίσεως/N3I-GSF γινώσκει/V1-PAI3S καρδία/N1A-NSF σοφοῦ/A1-GSM 
+ ὁ/RA-NSM φυλάσσων/V1-PAPNSM ἐντολὴν/N1-ASF οὐ/D γνώσεται/VF-FMI3S ῥῆμα/N3M-ASN πονηρόν/A1A-ASN καὶ/C καιρὸν/N2-ASM κρίσεως/N3I-GSF γινώσκει/V1-PAI3S καρδία/N1A-NSF σοφοῦ/A1-GSM 
  ὅτι/C παντὶ/A3-DSN πράγματι/N3M-DSN ἔστιν/V9-PAI3S καιρὸς/N2-NSM καὶ/C κρίσις/N3I-NSF ὅτι/C γνῶσις/N3I-NSF τοῦ/RA-GSM ἀνθρώπου/N2-GSM πολλὴ/A1-NSF ἐπ'/P αὐτόν/RD-ASM 
  ὅτι/C οὐκ/D ἔστιν/V9-PAI3S γινώσκων/V1-PAPNSM τί/RI-ASN τὸ/RA-ASN ἐσόμενον/VF-FMPASM ὅτι/C καθὼς/D ἔσται/VF-FMI3S τίς/RI-NSM ἀναγγελεῖ/VF2-FAI3S αὐτῷ/RD-DSM 
  οὐκ/D ἔστιν/V9-PAI3S ἄνθρωπος/N2-NSM ἐξουσιάζων/V1-PAPNSM ἐν/P πνεύματι/N3M-DSN τοῦ/RA-GSN κωλῦσαι/VA-AAN σὺν/P τὸ/RA-ASN πνεῦμα/N3M-ASN καὶ/C οὐκ/D ἔστιν/V9-PAI3S ἐξουσία/N1A-NSF ἐν/P ἡμέρᾳ/N1A-DSF τοῦ/RA-GSM θανάτου/N2-GSM καὶ/C οὐκ/D ἔστιν/V9-PAI3S ἀποστολὴ/N1-NSF ἐν/P τῷ/RA-DSM πολέμῳ/N2-DSM καὶ/C οὐ/D διασώσει/VF-FAI3S ἀσέβεια/N1A-NSF τὸν/RA-ASM παρ'/P αὐτῆς/RD-GSF 

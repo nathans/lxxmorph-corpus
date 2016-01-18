@@ -43,7 +43,7 @@
  ἔστη/VHI-AAI3S καὶ/C ἐσαλεύθη/VCI-API3S ἡ/RA-NSF γῆ/N1-NSF ἐπέβλεψεν/VAI-AAI3S καὶ/C διετάκη/VDI-API3S ἔθνη/N3E-APN διεθρύβη/VDI-API3S τὰ/RA-NPN ὄρη/N3E-NPN βίᾳ/N1A-DSF ἐτάκησαν/VDI-API3P βουνοὶ/N2-NPM αἰώνιοι/A1B-NPM 
  πορείας/N1A-APF αἰωνίας/A1A-APF αὐτοῦ/RD-GSM ἀντὶ/P κόπων/N2-GPM εἶδον/VBI-AAI1S σκηνώματα/N3M-NPN Αἰθιόπων/N-GPM πτοηθήσονται/VC-FPI3P καὶ/C αἱ/RA-NPF σκηναὶ/N1-NPF γῆς/N1-GSF Μαδιαμ/N-GS 
  μὴ/D ἐν/P ποταμοῖς/N2-DPM ὠργίσθης/VSI-API2S κύριε/N2-VSM ἢ/C ἐν/P ποταμοῖς/N2-DPM ὁ/RA-NSM θυμός/N2-NSM σου/RP-GS ἢ/C ἐν/P θαλάσσῃ/N1S-DSF τὸ/RA-NSN ὅρμημά/N3M-NSN σου/RP-GS ὅτι/C ἐπιβήσῃ/VF-FMI2S ἐπὶ/P τοὺς/RA-APM ἵππους/N2-APM σου/RP-GS καὶ/C ἡ/RA-NSF ἱππασία/N1A-NSF σου/RP-GS σωτηρία/N1A-NSF 
- ἐντείνων/V1-PAPNSM ἐντενεῖς/VF2-FAI2S τὸ/RA-ASN τόξον/N2N-ASN σου/RP-GS ἐπὶ/P τὰ/RA-APN σκῆπτρα/N2N-APN λέγει/V1-PAI3S κύριος/N2-NSM διάψαλμα/N3M-NSN ποταμῶν/N2-GPM ῤαγήσεται/VD-FPI3S γῆ/N1-NSF 
+ ἐντείνων/V1-PAPNSM ἐντενεῖς/VF2-FAI2S τὸ/RA-ASN τόξον/N2N-ASN σου/RP-GS ἐπὶ/P τὰ/RA-APN σκῆπτρα/N2N-APN λέγει/V1-PAI3S κύριος/N2-NSM διάψαλμα/N3M-NSN ποταμῶν/N2-GPM ῥαγήσεται/VD-FPI3S γῆ/N1-NSF 
  ὄψονταί/VF-FMI3P σε/RP-AS καὶ/C ὠδινήσουσιν/V1-FAI3P λαοί/N2-NPM σκορπίζων/V1-PAPNSM ὕδατα/N3T-APN πορείας/N1A-GSF αὐτοῦ/RD-GSM ἔδωκεν/VAI-AAI3S ἡ/RA-NSF ἄβυσσος/N2-NSF φωνὴν/N1-ASF αὐτῆς/RD-GSF ὕψος/N3E-ASN φαντασίας/N1A-GSF αὐτῆς/RD-GSF 
  ἐπήρθη/VCI-API3S ὁ/RA-NSM ἥλιος/N2-NSM καὶ/C ἡ/RA-NSF σελήνη/N1-NSF ἔστη/VHI-AAI3S ἐν/P τῇ/RA-DSF τάξει/N3I-DSF αὐτῆς/RD-GSF εἰς/P φῶς/N3T-ASN βολίδες/N3D-NPF σου/RP-GS πορεύσονται/VF-FMI3P εἰς/P φέγγος/N3E-ASN ἀστραπῆς/N1-GSF ὅπλων/N2N-GPN σου/RP-GS 
  ἐν/P ἀπειλῇ/N1-DSF ὀλιγώσεις/V4-FAI2S γῆν/N1-ASF καὶ/C ἐν/P θυμῷ/N2-DSM κατάξεις/VF-FAI2S ἔθνη/N3E-APN 
